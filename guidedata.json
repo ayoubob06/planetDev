@@ -2,27 +2,13 @@
 	"ADS":
 		   {
 		
-			"banner_main_type":"admob",
-			"inter_main_type":"unity",
-			"native_main_type":"applovin",
+			"banner_type":"admob",
+			"inter_type":"unity",
+			"native_type":"facebook",
 			
-			"banner_tips_type":"admob",
-			"inter_tips_type":"admob",
-			"native_tips_type":"admob",
-   
-   		    "banner_desc_type":"admob",
-			"inter_desc_type": "unity",
-			"native_desc_type" :"admob",
 			
-			"banner_wall_type":"admob",
-			"inter_wall_type":"facebook",
-			"native_wall_type":"admob",
-   
-		
 			
 			"unity_id":"4292105",
-
-			"ironsource_id":"1199e859d",
 			
 			
 			
@@ -42,13 +28,7 @@
 		   "facebook_banner": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061",
 		   "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		   
-		    "yandex_interstitial": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
-		   "yandex_banner": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061",
-		   "yandex_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		   
-		   "applovin_interstitial": "24036e00f8614e92",
-		   "applovin_banner": "6d1bd7e1db23a1a8",
-		   "applovin_mrec": "3588746611111fca",
+		  
 		   
    "image1":"http://mobandro.com/image/one.jpg",
    "image2":"https://mobandro.com/image/two.jpg",
