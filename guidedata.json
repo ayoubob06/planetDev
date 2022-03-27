@@ -12,13 +12,13 @@
 			
 			
 			
-			"banner_admob":"ca-app-pub-3940256099942",
-			"interstitial_admob":"ca-app-pub-3940256099942544",
-			"native_admob":"ca-app-pub-3940256099942544",
+			"banner_admob":"ca-app-pub56099942",
+			"interstitial_admob":"ca-app-pub-567",
+			"native_admob":"ca-app-pub-45678",
    
-			"banner_admob1":"ca-app-pub-3940256099942544/6300978111",
-			"interstitial_admob1":"ca-app-pub-3940256099942544/1033173712",
-			"native_admob1":"ca-app-pub-3940256099942544/2247696110",
+			"banner_admob1":"ca-app56789",
+			"interstitial_admob1":"ca-app-p12",
+			"native_admob1":"ca-app-pub-39110",
    
 			"banner_admob2":"ca-app-pub-3940256099942544/6300978111",
 			"interstitial_admob2":"ca-app-pub-3940256099942544/1033173712",
