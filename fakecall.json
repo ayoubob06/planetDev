@@ -3,8 +3,8 @@
 		   {
 		
 			"banner_type":"facebook",
-			"inter_type":"admob",
-			"native_type":"facebook",
+			"inter_type":"facebook",
+			"native_type":"appodeal",
 			
 			
 			
@@ -32,13 +32,13 @@
 			 "rewarde_admob2":"ca-app-pub-3940256099942544/5354046379",
    
 		   "facebook_interstitial": "79",
-		   "facebook_banner": "61",
-		   "facebook_native": "D",
+		   "facebook_banner": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061",
+		   "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		   "facebook_rewarde":"ca-app-pub-4567",
 			   
 		   "facebook_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
 		   "facebook_banner1": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061",
-		   "facebook_native1": "ID",
+		   "facebook_native1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 			    "facebook_rewarde1":"ca-app-pub-4567",
 			   
 	           "facebook_interstitial2": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
