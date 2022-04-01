@@ -11,11 +11,14 @@
 			"unity_id":"4292105",
 			
 			"appodeal_app_key" : "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
-         "ironsource_id" : "",
-         "banner_yandex":"ca-app-pub56099942",
-			"interstitial_yandex":"ca-app-pub-567",
-			"native_yandex":"ca-app-pub-4567",
-
+			   
+         		"ironsource_id" : "",
+			   
+         		"banner_yandex":"adf-279013/966631",
+			"interstitial_yandex":"adf-279013/966533",
+			"native_yandex":"adf-279013/975930",
+			 "rewarde_yandex":"adf-279013/966487",  
+			   
 			"banner_admob":"ca-app-pub56099942",
 			"interstitial_admob":"ca-app-pub-567",
 			"native_admob":"ca-app-pub-4567",
