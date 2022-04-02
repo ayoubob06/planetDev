@@ -2,9 +2,9 @@
 	"ADS":
 		   {
 		
-			"banner_type":"appodeal",
-			"inter_type":"ironsource",
-			"native_type":"facebook",
+			"banner_type":"admob",
+			"inter_type":"appodeal",
+			"native_type":"admob",
 			
 			
 			
