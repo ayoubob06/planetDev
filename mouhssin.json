@@ -1,22 +1,48 @@
-{
-	"ADS":{
+  [
 
-        "adsactive":"true",
-        "wallpaper_and_fakecall":"wallpaper",
+      {
 
-        "banner_applovin":"ugfgf75545",
-        "banner_applovin1":"iuytrew",
-        
-        "interstitial_applovin":"dd9845dd",
-        "interstitial_applovin1":"uytre",
+         "courseName":"Yawmiyate Rafiq - Ep 1 - يوميات رفيق الحلقة",
 
-        "rewarde_applovin":"juytrd",
-        "rewarde_applovin1":"ytre",
+         "courseimg":"https://www.youtube.com/watch?v=AXD2J9xamh0"
 
-        "native_applovin":"876543",
-        "native_applovin1":"456yhgfd"
+         
 
+      },
+      {
 
-    }
-   
-}
+         "courseName":"Yawmiyate Rafiq - Ep 2 - يوميات رفيق الحلقة",
+
+         "courseimg":"https://www.youtube.com/watch?v=AXD2J9xamh0"
+
+         
+
+      },
+       {
+
+         "courseName":"Yawmiyate Rafiq - Ep 3 - يوميات رفيق الحلقة",
+
+         "courseimg":"https://www.youtube.com/watch?v=AXD2J9xamh0"
+
+         
+
+      },
+       {
+
+         "courseName":"Yawmiyate Rafiq - Ep 4 - يوميات رفيق الحلقة",
+
+         "courseimg":"https://www.youtube.com/watch?v=AXD2J9xamh0"
+
+         
+
+      },
+       {
+
+         "courseName":"Yawmiyate Rafiq - Ep 5 - يوميات رفيق الحلقة",
+
+         "courseimg":"https://www.youtube.com/watch?v=AXD2J9xamh0"
+
+         
+
+      }
+    ] 
