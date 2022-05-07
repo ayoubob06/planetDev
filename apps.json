@@ -1,4 +1,5 @@
-[
+{
+    "Apps": [
     {
      "title": "dddddddddddddddddddddddddd",
       "image": "https://articlehoy.com/apps/app1.gif",
@@ -30,3 +31,4 @@
       "url": "https://play.google.com/store/apps/details?id=com.jijastickers.animatedEmojiLove&gl=MA"
     }
   ]
+}
