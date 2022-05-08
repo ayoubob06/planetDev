@@ -1,37 +1,14 @@
 {
-    "Apps": [
-    {
-     "title": "dddddddddddddddddddddddddd",
-      "image": "https://articlehoy.com/apps/app1.gif",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.lite"
-    },
-    {
-      "title": "gggggggggggggggggggggg",
-      "image": "https://play-lh.googleusercontent.com/gwu26nUnfW9IeZNYH72FJP3UEf4ahFnZ7_l5TdWOBaoPGOXym4k_uuSJ7aSFtUY6Bw=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.mlite"
-    },
-    {
-      "title": "Good Morning Animated Stickers",
-      "image": "https://play-lh.googleusercontent.com/F7s6aV-MWxLPVrNG7iBQBcdVuvwryDAQl5mRJyGf_dldcF7MqVRRifu1yX5ZtP2vs6VS=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.instagram.lite"
-    },
-    {
-      "title": "Animated Funny Stickers",
-      "image": "https://play-lh.googleusercontent.com/wcIvY2hQsJTK_TrJrG-vCRuCP0TrSGB9ShxGz84KmD3b6yWuCEsV6uNWijaaLlfT0Q=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.FunnyStickersMemes_forWhatsApp&gl=MA"
-    },
-    {
-      "title": "Flowers and Roses images GIFs",
-      "image": "https://play-lh.googleusercontent.com/Nt_EGrka-S1Tjad4YPV97Gy5TKpNG7Dt6eDmgIOuzDVg0u9oZfgVrENBGBaon1XKPkZR=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.romanticanimatedgif_flowersrosesgif_BouquetFlowersBeautifulgifs&gl=MA"
-    },
-    {
-      "title": "WAStickerApps animated emoji",
-      "image": "https://play-lh.googleusercontent.com/3MdrL4fJVVq9C3WN17Jr0xqmG_7a54kWGK9xHwrDPtQQXNIS49tViGZt88jk2rXk_Bk=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.animatedEmojiLove&gl=MA"
+    "Ads": {
+        "inter_type":"huawei",
+        "native_type":"huawei",
+        "banner_type":"huawei",
+        "interId1":"huawei",
+        "interId2":"huawei",
+        "interId3":"huawei",
+        "bannerId":"huawei",
+        "nativeId":"huawei"
     }
-  ]
-
  , "guideData" : [
 
     {
