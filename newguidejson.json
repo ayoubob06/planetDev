@@ -22,6 +22,17 @@
         "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
         "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
     },
+      {
+    "txt_title":"",
+    "img_title":"",
+    "img_description1":"",
+    "txt_description1":"",
+    "img_description2":"",
+    "txt_description2":"",
+    "img_description3":"",
+    "txt_description3":"",
+    "game_link":""
+  },
    {
 
         "txt_title":"tip test 2 ",
