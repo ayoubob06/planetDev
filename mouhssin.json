@@ -1,85 +1,95 @@
-  [
-
-      {
-
-         "VideoName":"Yawmiyate Rafiq - Ep 1 - يوميات رفيق الحلقة",
+{
+    "Ads": {
         
-         "VideoUrl":"https://firebasestorage.googleapis.com/v0/b/shabab-al-bomb-b107c.appspot.com/o/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%2010%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D9%87%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%204K.mp4?alt=media&token=5a39971e-1e57-4cac-ade4-043f440e4625",
-          "img":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-         "category":"2M"
+        "banner_type":"unity",
+		"inter_type":"admob",
+		"native_type":"appodeal",		
+			
+		"unity_id":"4292105",
+			
+		"appodeal_app_key" : "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
+         
 
-      },
+
+         "banner_yandex":"ca-app-pub56099942",
+		"interstitial_yandex":"ca-app-pub-567",
+    	"native_yandex":"ca-app-pub-4567",
+
+		"banner_admob":"ca-app-pub56099942",
+		"interstitial_admob":"ca-app-pub-567",
+		"native_admob":"ca-app-pub-4567"
+    
+	 
+        
+    }
+ , "guideData" : [
+
     {
 
-         "VideoName":"Yawmiyate Rafiq - Ep 2 - يوميات رفيق الحلقة",
-        
-         "VideoUrl":"https://firebasestorage.googleapis.com/v0/b/shabab-al-bomb-b107c.appspot.com/o/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%2010%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D9%87%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%204K.mp4?alt=media&token=5a39971e-1e57-4cac-ade4-043f440e4625",
-          "img":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-         "category":"2M"
+        "txt_title":"tip test 1 ",
+        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "game_link":"https://win.ma/ar/espace-client/forfait"
 
-      },
-    {
+    },
+   {
 
-         "VideoName":"Yawmiyate Rafiq - Ep 3 - يوميات رفيق الحلقة",
-        
-         "VideoUrl":"https://firebasestorage.googleapis.com/v0/b/shabab-al-bomb-b107c.appspot.com/o/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%2010%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D9%87%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%204K.mp4?alt=media&token=5a39971e-1e57-4cac-ade4-043f440e4625",
-          "img":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-         "category":"ALOULA"
+        "txt_title":"tip test 2 ",
+        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description1":"textttt",
+        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "game_link":"https://win.ma/ar/espace-client/forfait"
 
-      },
-     {
+    },
+   {
 
-         "VideoName":"Yawmiyate Rafiq - Ep 4 - يوميات رفيق الحلقة",
-        
-         "VideoUrl":"https://firebasestorage.googleapis.com/v0/b/shabab-al-bomb-b107c.appspot.com/o/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%2010%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D9%87%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%204K.mp4?alt=media&token=5a39971e-1e57-4cac-ade4-043f440e4625",
-          "img":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-         "category":"test"
+        "txt_title":"tip test 3 ",
+        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "game_link":"https://win.ma/ar/espace-client/forfait"
 
-      },
-    {
+    }
+  , {
 
-         "VideoName":"Yawmiyate Rafiq - Ep 5 - يوميات رفيق الحلقة",
-        
-         "VideoUrl":"https://firebasestorage.googleapis.com/v0/b/shabab-al-bomb-b107c.appspot.com/o/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%2010%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D9%87%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%204K.mp4?alt=media&token=5a39971e-1e57-4cac-ade4-043f440e4625",
-          "img":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-         "category":"ALOULA"
+        "txt_title":"tip test 4 ",
+        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "game_link":"https://win.ma/ar/espace-client/forfait"
 
-      },
-    {
+    },
+   {
 
-         "VideoName":"Yawmiyate Rafiq - Ep 6 - يوميات رفيق الحلقة",
-        
-         "VideoUrl":"https://firebasestorage.googleapis.com/v0/b/shabab-al-bomb-b107c.appspot.com/o/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%2010%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D9%87%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%204K.mp4?alt=media&token=5a39971e-1e57-4cac-ade4-043f440e4625",
-          "img":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-         "category":"2M"
+        "txt_title":"tip test 5 ",
+        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
+        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
+        "game_link":"https://win.ma/ar/espace-client/forfait"
 
-      }
-    ,{
+    }
+  
+]
+    }
 
-         "VideoName":"Yawmiyate Rafiq - Ep 7 - يوميات رفيق الحلقة",
-        
-         "VideoUrl":"https://firebasestorage.googleapis.com/v0/b/shabab-al-bomb-b107c.appspot.com/o/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%2010%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D9%87%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%204K.mp4?alt=media&token=5a39971e-1e57-4cac-ade4-043f440e4625",
-          "img":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-         "category":"test"
-
-      }
-    ,{
-
-         "VideoName":"Yawmiyate Rafiq - Ep 8 - يوميات رفيق الحلقة",
-        
-         "VideoUrl":"https://firebasestorage.googleapis.com/v0/b/shabab-al-bomb-b107c.appspot.com/o/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%2010%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D9%87%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%204K.mp4?alt=media&token=5a39971e-1e57-4cac-ade4-043f440e4625",
-          "img":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-         "category":"test"
-
-      }
-    ,{
-
-         "VideoName":"Yawmiyate Rafiq - Ep 9 - يوميات رفيق الحلقة",
-        
-         "VideoUrl":"https://firebasestorage.googleapis.com/v0/b/shabab-al-bomb-b107c.appspot.com/o/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8%2010%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D9%87%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%204K.mp4?alt=media&token=5a39971e-1e57-4cac-ade4-043f440e4625",
-          "img":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-         "category":"test"
-
-      }
-      
-    ] 
