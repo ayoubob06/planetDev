@@ -47,6 +47,18 @@
 		  
 		   
   
-	  }
+	  },
+	 "guideData": [
+  {
+    "image": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+    "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry...",
+    "text1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+    "text2": "somthing here",
+    "likesNumbers": 132,
+    "VIP": false,
+    "show button": true,
+    "button URL": "com.kiloo.subwaysurf"
+  }
+]
    
    }
