@@ -1,1 +1,65 @@
 
+{ "ADS":
+    {
+  
+      "banner_type":"admob",
+      "inter_type":"admob",
+      "native_type":"admob",
+    
+      "interstitial_applovin":"adf-279013/966533",
+      "native_applovin":"adf-279013/966633",
+      "banner_applovin":"adf-279013/966487",
+  
+      "banner_admob":"ca-app-pub56099942ca-app-pub-3940256099942544/1033173712",
+      "interstitial_admob":"ca-app-pub-567",
+      "native_admob":"ca-app-pub-4567",
+  
+    },
+	"ImageData" :[
+
+		{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		},{
+		  "girlImg":"https://resize-media.festival-cannes.com/fit-in/977x619/media_image_simple/0001/60/d223053292ed813b494863166ee6556da920b46e.png"
+	  
+		}
+	  
+	  ]
+  }
+  
+  
+  
