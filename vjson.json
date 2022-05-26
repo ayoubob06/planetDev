@@ -1,8 +1,8 @@
 	{ 
 	    "ADS": { 
-	        "banner_type": "", 
-	        "inter_type": "", 
-	        "native_type": "", 
+	        "banner_type": "admob", 
+	        "inter_type": "admob", 
+	        "native_type": "admob", 
 	        "unity_id": "", 
 	        "ironsource_id": "", 
 	        "banner_admob": "ca-app-pub56099942", 
