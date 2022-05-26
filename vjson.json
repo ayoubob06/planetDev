@@ -1,22 +1,44 @@
-{
-	"ADS":{
+	{ 
+	    "ADS": { 
+	        "banner_type": "", 
+	        "inter_type": "", 
+	        "native_type": "", 
+	        "unity_id": "", 
+	        "ironsource_id": "", 
+	        "banner_admob": "ca-app-pub56099942", 
+	        "interstitial_admob": "ca-app-pub-567", 
+	        "native_admob": "ca-app-pub-4567", 
+	        "banner_admob1": "ca-app56789", 
+	        "interstitial_admob1": "ca-app-p12", 
+	        "native_admob1": "ca-app-pub-39110", 
+	        "facebook_banner": "ca-app-pub56099942", 
+	        "facebook_interstitial": "ca-app-pub-567", 
+	        "facebook_native": "ca-app-pub-4567", 
+	        "facebook_banner1": "ca-app56789", 
+	        "facebook_interstitial1": "ca-app-p12", 
+	        "facebook_native1": "ca-app-pub-39110", 
+	        "applovin_banner": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679", 
+	        "applovin_interstitial": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061", 
+	        "applovin_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", 
+	        "applovin_banner1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679", 
+	        "applovin_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061", 
+	        "applovin_mrec1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID" 
+	    } 
+	} 
 
-        "adsactive":"true",
-        "wallpaper_and_fakecall":"fghjkl",
+	
 
-        "banner_applovin":"fghjkl",
-        "banner_applovin1":"gfddd",
         
-        "interstitial_applovin":"sad",
-        "interstitial_applovin1":"ddd",
-
-        "rewarde_applovin":"eee",
-        "rewarde_applovin1":"eeee",
-
-        "native_applovin":"eee",
-        "native_applovin1":"eeeee"
+        
 
 
-    }
+
+
+
+
+
+
+
+    
    
-}
+
