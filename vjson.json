@@ -1,13 +1,13 @@
 {
   "json object": {
     "data": {
-      "banner_type": "unity",
+      "banner_type": "admob",
      "banner": "ca-app-pub-3940256099942544/6300978111",
      "inter_type": "admob",
       "interstitial": "ca-app-pub-3940256099942544/1033173712",
       "interstitial_1": "ca-app-pub-3940256099942544/1033173712",
       "interstitial_2": "ca-app-pub-3940256099942544/1033173712",
-      "native_type": "facebook",
+      "native_type": "admob",
 	    "native": "ca-app-pub-3940256099942544/2247696110",
       "native_1": "ca-app-pub-3940256099942544/2247696110",
       "native_2": "ca-app-pub-3940256099942544/2247696110",
