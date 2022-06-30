@@ -1,9 +1,9 @@
 	{ 
 	    "ADS": { 
-	        "banner_type": "applovin", 
-	        "inter_type": "applovin", 
+	        "banner_type": "admob", 
+	        "inter_type": "admob", 
 			"reward_type": "admob", 
-	        "native_type": "applovin", 
+	        "native_type": "admob", 
 
 	        "unity_id": "", 
 	        "ironsource_id": "", 
