@@ -2,53 +2,16 @@
   "Ads": {
     
  			   
-		"banner_admob":"ca-app-pub56099942",
-		"interstitial_admob":"ca-app-pub-567",
-		"native_admob":"ca-app-pub-4567",
+		"networkAds":"applovin",
+		"ironsource_id":"ca-app-pub-567",
+		"unity_id":"ca-app-pub-4567",
     
-		"banner_admob1":"ca-app56789",
-		"interstitial_admob1":"ca-app-p12",
-		"native_admob1":"ca-app-pub-39110",
+		"inter_id":"870b1865a9fdf911",
+		"reward_id":"3d861cbd54b9cec4",
+		"banner_id":"1778331e09b225ec",
     
-		"banner_admob2":"ca-app-pub-3940256099942544/6300978111",
-		"interstitial_admob2":"ca-app-pub-3940256099942544/1033173712",
-		"native_admob2":"ca-app-pub-3940256099942544/2247696110"
+		"native_id":"01f35ea3c7875727" 
     
 		 
-  },
-  "Config": {
-    "showMoreApps": true
-  },
-  "Apps": [
-    {
-     "title": "dddddddddddddddddddddddddd",
-      "image": "https://articlehoy.com/apps/app1.gif",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.lite"
-    },
-    {
-      "title": "gggggggggggggggggggggg",
-      "image": "https://play-lh.googleusercontent.com/gwu26nUnfW9IeZNYH72FJP3UEf4ahFnZ7_l5TdWOBaoPGOXym4k_uuSJ7aSFtUY6Bw=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.mlite"
-    },
-    {
-      "title": "Good Morning Animated Stickers",
-      "image": "https://play-lh.googleusercontent.com/F7s6aV-MWxLPVrNG7iBQBcdVuvwryDAQl5mRJyGf_dldcF7MqVRRifu1yX5ZtP2vs6VS=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.instagram.lite"
-    },
-    {
-      "title": "Animated Funny Stickers",
-      "image": "https://play-lh.googleusercontent.com/wcIvY2hQsJTK_TrJrG-vCRuCP0TrSGB9ShxGz84KmD3b6yWuCEsV6uNWijaaLlfT0Q=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.FunnyStickersMemes_forWhatsApp&gl=MA"
-    },
-    {
-      "title": "Flowers and Roses images GIFs",
-      "image": "https://play-lh.googleusercontent.com/Nt_EGrka-S1Tjad4YPV97Gy5TKpNG7Dt6eDmgIOuzDVg0u9oZfgVrENBGBaon1XKPkZR=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.romanticanimatedgif_flowersrosesgif_BouquetFlowersBeautifulgifs&gl=MA"
-    },
-    {
-      "title": "WAStickerApps animated emoji",
-      "image": "https://play-lh.googleusercontent.com/3MdrL4fJVVq9C3WN17Jr0xqmG_7a54kWGK9xHwrDPtQQXNIS49tViGZt88jk2rXk_Bk=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.animatedEmojiLove&gl=MA"
-    }
-  ]
+  } 
 }
