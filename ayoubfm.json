@@ -2,11 +2,11 @@
 	"ADS":
 		   {
 	   
-			"ads_type":"admob",
+			"ads_type":"facebook",
 			
-			"banner_id":"ca-app-pub-3940256099942544/6300978111",
-			"interstitial_id":"ca-app-pub-3940256099942544/1033173712",
-			"native_id":"ca-app-pub-3940256099942544/2247696110",
+			"banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
    
    "image1":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
    "image2":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
