@@ -2,16 +2,13 @@
   "Ads": {
     
  			   
-		"networkAds":"applovin",
-		"ironsource_id":"ca-app-pub-567",
-		"unity_id":"ca-app-pub-4567",
+		"networkAds":"admob",
+		 
     
-		"inter_id":"870b1865a9fdf911",
-		"reward_id":"3d861cbd54b9cec4",
-		"banner_id":"1778331e09b225ec",
+		"inter_id":"ca-app-pub-3940256099942544/1033173712",
+ 		"banner_id":"ca-app-pub-3940256099942544/6300978111"
     
-		"native_id":"01f35ea3c7875727" 
-    
+		 
 		 
   } 
 }
