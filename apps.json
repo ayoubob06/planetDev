@@ -1,20 +1,13 @@
 {
 	"ADS":{
 
-        "adsactive":"false",
-        "wallpaper_and_fakecall":"fghjkl",
+        "ads_type":"applovin",
+       
+        "inter_id":"eeee",
 
-        "banner_applovin":"fghjkl",
-        "banner_applovin1":"gfddd",
-        
-        "interstitial_applovin":"sad",
-        "interstitial_applovin1":"ddd",
-
-        "rewarde_applovin":"eee",
-        "rewarde_applovin1":"eeee",
-
-        "native_applovin":"eee",
-        "native_applovin1":"eeeee"
+        "banner_id":"eee",
+        "native_id":"eeeee",
+	"native_id":"ironsource_id"
 
 
     }
