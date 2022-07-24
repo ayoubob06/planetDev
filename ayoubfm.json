@@ -1,46 +1,78 @@
-{
-	"ADS":
-		   {
-	   
-			"ads_type":"facebook",
-			
-			"banner_id":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-			"interstitial_id":"IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-			"native_id":"VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
-   
-   "image1":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
-   "image2":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
-   "image3":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
-   "image4":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
-   "image5":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
-   "image6":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
-   "image7":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
-   "image8":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
-   "image9":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
-   "image10":"https://moddroid.co/wp-content/uploads/2021/03/scary-teacher-3d-mod-unlimited-money.jpg",
-   
-   "tip1":"Scary Teacher 3D is a fun but thrilling simulation game. Published by Z & K Games, it’s a scary simulation game where you get to prank your neighbor. However, that neighbor also happens to be your creepy high school teacher, Miss T. Pranking someone, especially a teacher, might not look nice but Miss T deserves it. She has been very mean to students and has made their lives a living hell while in school.",
-   "tip2":"Scary Teacher 3D is a fun but thrilling simulation game. Published by Z & K Games, it’s a scary simulation game where you get to prank your neighbor. However, that neighbor also happens to be your creepy high school teacher, Miss T. Pranking someone, especially a teacher, might not look nice but Miss T deserves it. She has been very mean to students and has made their lives a living hell while in school.",
-   "tip3":"Scary Teacher 3D is a fun but thrilling simulation game. Published by Z & K Games, it’s a scary simulation game where you get to prank your neighbor. However, that neighbor also happens to be your creepy high school teacher, Miss T. Pranking someone, especially a teacher, might not look nice but Miss T deserves it. She has been very mean to students and has made their lives a living hell while in school.",
-   "tip4":"There are already many levels added to Scary Teacher 3D, and each level has a unique prank to complete. But when the game first launched, there were only 13 pranks for you to do. The first one was to add a mousetrap under her magazine (as previously mentioned), and the second one is ruining her breakfast. The 3rd prank involves breaking her TV so she can’t watch her favorite show. You just have to find a tool (a hammer) that you can use to break the TV.",
-   "tip5":"Scary Teacher 3D is a fun but thrilling simulation game. Published by Z & K Games, it’s a scary simulation game where you get to prank your neighbor. However, that neighbor also happens to be your creepy high school teacher, Miss T. Pranking someone, especially a teacher, might not look nice but Miss T deserves it. She has been very mean to students and has made their lives a living hell while in school.",
-   "tip6":"Scary Teacher 3D is a fun but thrilling simulation game. Published by Z & K Games, it’s a scary simulation game where you get to prank your neighbor. However, that neighbor also happens to be your creepy high school teacher, Miss T. Pranking someone, especially a teacher, might not look nice but Miss T deserves it. She has been very mean to students and has made their lives a living hell while in school.",
-   "tip7":"Scary Teacher 3D is a fun but thrilling simulation game. Published by Z & K Games, it’s a scary simulation game where you get to prank your neighbor. However, that neighbor also happens to be your creepy high school teacher, Miss T. Pranking someone, especially a teacher, might not look nice but Miss T deserves it. She has been very mean to students and has made their lives a living hell while in school.",
-   "tip8":"Scary Teacher 3D is a fun but thrilling simulation game. Published by Z & K Games, it’s a scary simulation game where you get to prank your neighbor. However, that neighbor also happens to be your creepy high school teacher, Miss T. Pranking someone, especially a teacher, might not look nice but Miss T deserves it. She has been very mean to students and has made their lives a living hell while in school.",
-   "tip9":"Scary Teacher 3D is a fun but thrilling simulation game. Published by Z & K Games, it’s a scary simulation game where you get to prank your neighbor. However, that neighbor also happens to be your creepy high school teacher, Miss T. Pranking someone, especially a teacher, might not look nice but Miss T deserves it. She has been very mean to students and has made their lives a living hell while in school.",
-   "tip10":"Scary Teacher 3D is a fun but thrilling simulation game. Published by Z & K Games, it’s a scary simulation game where you get to prank your neighbor. However, that neighbor also happens to be your creepy high school teacher, Miss T. Pranking someone, especially a teacher, might not look nice but Miss T deserves it. She has been very mean to students and has made their lives a living hell while in school.",
-   
-   "title1":"Production1",
-   "title2":"How to go ? 2",
-   "title3":"scary teacher 3",
-   "title4":"Granny scary 4",
-   "title5":"scary fast 5",
-   "title6":"scary teacher lux 6",
-   "title7":"scary fast 7",
-   "title8":"scary fast 8",
-   "title9":"scary fast 9",
-   "title10":"scary fast 10"
-	  }
-   
-   }
-   
+{ "ADS":
+    {
+  
+      "banner_type":"yandex",
+      "inter_type":"admob",
+      "native_type":"yandex",
+      "reward_type": "admob",
+  
+     
+      
+      "ironsource_id" : "11c7e1165",
+      "unity_id":"4292105",
+  
+    
+  
+  
+  
+      "banner_yandex":"adf-279013/966631",
+      "interstitial_yandex":"adf-279013/966533",
+      "native_yandex":"adf-279013/966633",
+      "rewarde_yandex":"adf-279013/966487",
+  
+      "banner_admob":"ca-app-pub56099942",
+      "interstitial_admob":"ca-app-pub-567",
+      "native_admob":"ca-app-pub-4567",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
+
+      
+      "applovin_banner":"ca-app-pub56099942",
+      "applovin_interstitial":"ca-app-pub-567",
+      "applovin_reward":"ca-app-pub-4567",
+      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379"
+  
+    },
+    "guideData": [
+    {
+      "imageUrl": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 1",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+       "VIP": false
+      
+    }, {
+      "imageUrl": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 2",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+       "VIP": false
+      
+    },
+	{
+      "imageUrl": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 3",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+       "VIP": true
+      
+    }, {
+      "imageUrl": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 4",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+       "VIP": false
+      
+    }, {
+      "imageUrl": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 5",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+       "VIP": true
+      
+    }, {
+      "imageUrl": "https://ia803102.us.archive.org/5/items/wallpaper_202106/dddss.jpg",
+      "title": "Lorem 6",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+       "VIP": false
+      
+    }
+  ]
+  }
+  
+  
+  
