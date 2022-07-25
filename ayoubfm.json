@@ -1,7 +1,7 @@
 { "ADS":
     {
   
-      "banner_type":"admob",
+      "banner_type":"unity",
       "inter_type":"yandex",
       "native_type":"yandex",
       "reward_type": "admob",
@@ -29,7 +29,12 @@
       "applovin_banner":"ca-app-pub56099942",
       "applovin_interstitial":"ca-app-pub-567",
       "applovin_reward":"ca-app-pub-4567",
-      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379"
+      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379",
+	    
+	 "facebook_reward":"adf-279013/966631",
+      "facebook_banner":"adf-279013/966533",
+      "facebook_interstitial":"adf-279013/966633",
+      "applovin_mrec":"adf-279013/966487"
   
     },
     "guideData": [
