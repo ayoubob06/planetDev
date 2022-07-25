@@ -1,15 +1,126 @@
+{ "ADS":
+    {
+  
+      "banner_type":"unity",
+      "inter_type":"yandex",
+      "native_type":"admob",
+      "reward_type": "admob",
+  
+     
+      
+      "ironsource_id" : "11c7e1165",
+      "unity_id":"4292105",
+  
+    
+  
+  
+  
+      "banner_yandex":"adf-279013/966631",
+      "interstitial_yandex":"adf-279013/966533",
+      "native_yandex":"adf-279013/966633",
+      "rewarde_yandex":"adf-279013/966487",
+  
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
+
+      
+      "applovin_banner":"ca-app-pub56099942",
+      "applovin_interstitial":"ca-app-pub-567",
+      "applovin_reward":"ca-app-pub-4567",
+      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379",
+	    
+	 "facebook_reward":"adf-279013/966631",
+      "facebook_banner":"adf-279013/966533",
+      "facebook_interstitial":"adf-279013/966633",
+      "facebook_native":"adf-279013/966487"
+  
+    },
+    "wallpaper": [
 {
-	"ADS":{
+    "Wallpaper":"https://www.xtrafondos.com/wallpapers/vertical/yuji-itadori-de-jujutsu-kaisen-7461.jpg"
+  },
+  {
+    "Wallpaper": "https://myandroidwalls.com/wp-content/uploads/2021/07/Anime-Wallpaper-For-Mobile.jpg"
+  },
+  {
+    "Wallpaper": "https://www.mordeo.org/files/uploads/2022/01/Xiao-Genshin-Impact-4K-Ultra-HD-Mobile-Wallpaper-283x503.jpg"
+  },
+  {
+   "Wallpaper": "https://www.teahub.io/photos/full/94-944637_anime-wallpaper-4k-for-mobile.jpg"
+  },
+  {
+    "Wallpaper": "https://cdn.wallpapersafari.com/9/15/sKwf29.jpg"
+  },
+  {
+    "Wallpaper": "https://i.pinimg.com/736x/b2/cd/fc/b2cdfcb7949bb2a132f3d21b3bcebbbd.jpg"
+  },
+  {
+    "Wallpaper": "https://wallpapers.com/images/high/purple-sasuke-pfp-udmj4zxpnf3vikh5.jpg"
+  },
+  {
+    "Wallpaper": "https://wallpaperaccess.com/full/3279848.jpg"
+  },
+    {
+    "Wallpaper": "https://img.wallpapersafari.com/phone/1125/2436/65/36/OBZhVr.jpg"
+  },
+  {
+    "Wallpaper": "https://i.pinimg.com/1200x/d8/ff/e8/d8ffe850c3c4a8a916efad916b587362.jpg"
+  },
+  {
+    "Wallpaper": "https://i.pinimg.com/736x/93/77/fd/9377fd8e5b32aa95c7b3eef6f535059c.jpg"
+  },
+  {
+    "Wallpaper": "https://cdn.wallpapersafari.com/76/13/7YBvck.jpg"
+  },
+  {
+   "Wallpaper": "https://cutewallpaper.org/21/anime-phone-wallpaper-4k/Anime-Wallpaper-Mobile-4k-Djiwallpaper-Co-Sword-Art-Online-.jpg"
+  },
+  {
+    "Wallpaper": "https://bestwallpapers.net/wp-content/uploads/2021/05/Best-HD-Anime-Wallpapers-Free-Download.jpg"
+  },
+  {
+    "Wallpaper": "https://c4.wallpaperflare.com/wallpaper/941/725/228/anime-girls-original-characters-women-red-eyes-covered-face-hd-wallpaper-preview.jpg"
+  },
+  {
+    "Wallpaper": "https://wallpapercave.com/wp/wp7798458.jpg"
+  },
+  {
+    "Wallpaper": "https://coolhdwall.com/storage/202106/muzan-female-form-demon-slayer-4k-phone-wallpaper-2160x3840.jpg"
+  },
+    {
+    "Wallpaper": "https://wallpaper.dog/large/10878225.jpg"
+  },
+  {
+    "Wallpaper": "https://i.pinimg.com/736x/98/78/7a/98787a7df9cd04c434699ebbdccae34c.jpg"
+  },
+  {
+"Wallpaper": "https://cdn.wallpapersafari.com/10/74/u6N1rl.jpg"
+  },
+  {
+    "Wallpaper": "https://i.pinimg.com/originals/4b/ec/a1/4beca1daa1cd9e93502089eeebb51c4c.jpg"
+  },
+  {
+   "Wallpaper":"https://w0.peakpx.com/wallpaper/475/421/HD-wallpaper-gojo-satoru-anime-gojosatoru-iphone-jujutsukaisen-naruto-yuuji-yuujiitadori.jpg"
+  },
+  {
+    "Wallpaper": "https://cdn.mwallpapers.com/photos/wallpapers/anime/anime-wallpaper-for-phone-android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4khd-wallpapers-desktop-background-android-iphone-1080p-4k-lcdcc.jpg"
+  },
+  {
+    "Wallpaper": "https://cdn.wallpapersafari.com/48/99/3Kbfor.jpg"
+  },
+  {
+    "Wallpaper": "https://mobwallpapershd.com/wp-content/uploads/2021/06/Death-Note-Wallpaper-Download.jpg"
+  },
+  {
+    "Wallpaper": "https://wallpaperaccess.com/full/170155.jpg"
+  },
+    {
+    "Wallpaper": "https://i.pinimg.com/736x/02/8f/55/028f55164b55c570cdbc5b604371d626.jpg"
+  }
+]
+  }
+  
+  
 
-        "ads_type":"applovin",
-       
-        "inter_id":"eeee",
-
-        "banner_id":"eee",
-        "native_id":"eeeee",
-	"native_id":"ironsource_id"
-
-
-    }
-   
-}
