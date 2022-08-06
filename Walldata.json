@@ -1,83 +1,103 @@
-[
 {
-    "Wallpaper":"https://www.xtrafondos.com/wallpapers/vertical/yuji-itadori-de-jujutsu-kaisen-7461.jpg"
-  },
-  {
-    "Wallpaper": "https://myandroidwalls.com/wp-content/uploads/2021/07/Anime-Wallpaper-For-Mobile.jpg"
-  },
-  {
-    "Wallpaper": "https://www.mordeo.org/files/uploads/2022/01/Xiao-Genshin-Impact-4K-Ultra-HD-Mobile-Wallpaper-283x503.jpg"
-  },
-  {
-   "Wallpaper": "https://www.teahub.io/photos/full/94-944637_anime-wallpaper-4k-for-mobile.jpg"
-  },
-  {
-    "Wallpaper": "https://cdn.wallpapersafari.com/9/15/sKwf29.jpg"
-  },
-  {
-    "Wallpaper": "https://i.pinimg.com/736x/b2/cd/fc/b2cdfcb7949bb2a132f3d21b3bcebbbd.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpapers.com/images/high/purple-sasuke-pfp-udmj4zxpnf3vikh5.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/3279848.jpg"
-  },
+  "Json_Data": [
     {
-    "Wallpaper": "https://img.wallpapersafari.com/phone/1125/2436/65/36/OBZhVr.jpg"
-  },
-  {
-    "Wallpaper": "https://i.pinimg.com/1200x/d8/ff/e8/d8ffe850c3c4a8a916efad916b587362.jpg"
-  },
-  {
-    "Wallpaper": "https://i.pinimg.com/736x/93/77/fd/9377fd8e5b32aa95c7b3eef6f535059c.jpg"
-  },
-  {
-    "Wallpaper": "https://cdn.wallpapersafari.com/76/13/7YBvck.jpg"
-  },
-  {
-   "Wallpaper": "https://cutewallpaper.org/21/anime-phone-wallpaper-4k/Anime-Wallpaper-Mobile-4k-Djiwallpaper-Co-Sword-Art-Online-.jpg"
-  },
-  {
-    "Wallpaper": "https://bestwallpapers.net/wp-content/uploads/2021/05/Best-HD-Anime-Wallpapers-Free-Download.jpg"
-  },
-  {
-    "Wallpaper": "https://c4.wallpaperflare.com/wallpaper/941/725/228/anime-girls-original-characters-women-red-eyes-covered-face-hd-wallpaper-preview.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpapercave.com/wp/wp7798458.jpg"
-  },
-  {
-    "Wallpaper": "https://coolhdwall.com/storage/202106/muzan-female-form-demon-slayer-4k-phone-wallpaper-2160x3840.jpg"
-  },
+
+      "Active_SDK": "ironsource facebook",
+
+
+      "Facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Facebook_250": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  
+      "IronSource_App_Key": "XXXXXXXXXXXXXX",
+      "IronSource_interstitial": "XXXXXXXXXXXXXX",
+      "IronSource_banner": "XXXXXXXXXXXXXX",
+	  
+      "Show__Live__Ads": "facebook",
+
+      "Custom__text": "Welcome To X Wallpaper App",
+
+      "Cpa_activate": "yes",
+      "Cpa_text": "Free Diamonds 4 Free Fire",
+      "Cpa_icon": "https://i.imgur.com/IOE3zEj.jpg",
+      "Cpa_url": "https://www.google.com/",
+	  
+
+      "Json_Checker": "dont_change_this"
+    }
+  ],
+
+
+  "GuideContent": [
     {
-    "Wallpaper": "https://wallpaper.dog/large/10878225.jpg"
-  },
-  {
-    "Wallpaper": "https://i.pinimg.com/736x/98/78/7a/98787a7df9cd04c434699ebbdccae34c.jpg"
-  },
-  {
-"Wallpaper": "https://cdn.wallpapersafari.com/10/74/u6N1rl.jpg"
-  },
-  {
-    "Wallpaper": "https://i.pinimg.com/originals/4b/ec/a1/4beca1daa1cd9e93502089eeebb51c4c.jpg"
-  },
-  {
-   "Wallpaper":"https://w0.peakpx.com/wallpaper/475/421/HD-wallpaper-gojo-satoru-anime-gojosatoru-iphone-jujutsukaisen-naruto-yuuji-yuujiitadori.jpg"
-  },
-  {
-    "Wallpaper": "https://cdn.mwallpapers.com/photos/wallpapers/anime/anime-wallpaper-for-phone-android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4khd-wallpapers-desktop-background-android-iphone-1080p-4k-lcdcc.jpg"
-  },
-  {
-    "Wallpaper": "https://cdn.wallpapersafari.com/48/99/3Kbfor.jpg"
-  },
-  {
-    "Wallpaper": "https://mobwallpapershd.com/wp-content/uploads/2021/06/Death-Note-Wallpaper-Download.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/170155.jpg"
-  },
+      "title": "Collection 1"
+    },
     {
-    "Wallpaper": "https://i.pinimg.com/736x/02/8f/55/028f55164b55c570cdbc5b604371d626.jpg"
-  }
-]
+      "title": "Collection 2"
+    },
+    {
+      "title": "Collection 3"
+    },
+    {
+      "title": "Collection 4"
+    },
+    {
+      "title": "Collection 5"
+    },
+    {
+      "title": "Collection 6"
+    },
+    {
+      "title": "Collection 7"
+    },
+    {
+      "title": "Collection 8"
+    },
+    {
+      "title": "Collection 9"
+    },
+    {
+      "title": "Collection 10"
+    }
+  ],
+  
+  "Collection 1": [
+    {
+      "id": "1",
+      "image": "https://i.imgur.com/IjhEZzM.jpg"
+    },
+    {
+      "id": "2",
+      "image": "https://i.imgur.com/cV1qZkF.jpg"
+    },
+    {
+      "id": "3",
+      "image": "https://i.imgur.com/LfUosdM.jpg"
+    },
+    {
+      "id": "4",
+      "image": "https://i.imgur.com/2RRGM83.jpg"
+    },
+    {
+      "id": "5",
+      "image": "https://i.imgur.com/hwkECph.jpg"
+    },
+    {
+      "id": "6",
+      "image": "https://i.imgur.com/22Rst8f.jpg"
+    },
+    {
+      "id": "7",
+      "image": "https://i.imgur.com/R1RDz3v.jpg"
+    },
+    {
+      "id": "8",
+      "image": "https://i.imgur.com/CAJ9Jzs.jpg"
+    },
+    {
+      "id": "9",
+      "image": "https://i.imgur.com/8PzFzxq.jpg"
+    }
+  ]
+}
