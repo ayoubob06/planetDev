@@ -2,27 +2,27 @@
   "ADS": [
     {
 
-      "banner_type_main":"unity",
-      "inter_type_main":"unity",
+      "banner_type_main":"facebook",
+      "inter_type_main":"facebook",
       "inter_or_reward_main":"inter",
-      "native_type_main":"unity",
-      "reward_type_main": "unity",
-      "native_or_mrec_main": "unity",
+      "native_type_main":"facebook",
+      "reward_type_main": "facebook",
+      "native_or_mrec_main": "native",
 
-      "banner_type_data":"unity",
-      "inter_type_data":"unity",
+      "banner_type_data":"facebook",
+      "inter_type_data":"facebook",
       "inter_or_reward_data":"inter",
-      "native_type_data":"unity",
-      "reward_type_data": "unity",
-      "native_or_mrec_data": "unity",
+      "native_type_data":"facebook",
+      "reward_type_data": "facebook",
+      "native_or_mrec_data": "native",
 
 
-      "banner_type_content":"unity",
-      "inter_type_content":"unity",
+      "banner_type_content":"facebook",
+      "inter_type_content":"facebook",
       "inter_or_reward_content":"inter",
-      "native_type_content":"unity",
-      "reward_type_content": "unity",
-      "native_or_mrec_content": "unity",
+      "native_type_content":"facebook",
+      "reward_type_content": "facebook",
+      "native_or_mrec_content": "native",
 
 
        "ironsource_id": "unity",
@@ -40,11 +40,11 @@
       "applovin_mrec":"ca-app-pub-3940256099942544/5354046379",
       "applovin_native":"ca-app-pub-3940256099942544/5354046379",
 
-      "facebook_banner":"ca-app-pub56099942",
-      "facebook_interstitial":"ca-app-pub-567",
+      "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook_interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_reward":"ca-app-pub-4567",
       "facebook_mrec":"ca-app-pub-3940256099942544/5354046379",
-      "facebook_native":"ca-app-pub-3940256099942544/5354046379"
+      "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
   ],
 
