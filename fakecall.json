@@ -1,5 +1,5 @@
 {
-  "ADS": [
+  "ADS": 
     {
 
       "banner_type_main":"facebook",
@@ -46,7 +46,7 @@
       "facebook_mrec":"ca-app-pub-3940256099942544/5354046379",
       "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
-  ],
+  ,
 
 
   "GuideContent": [
