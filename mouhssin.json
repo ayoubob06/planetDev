@@ -55,75 +55,97 @@
   ,
 
 
-  "GuideContent": [
+  "collections_names": [
+      {
+        "name": "Collection 1",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      },
+      {
+        "name": "Collection 2",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      },
+      {
+        "name": "Collection 3",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      },
+      {
+        "name": "Collection 4",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      },
+      {
+        "name": "Collection 5",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      },
+      {
+        "name": "Collection 6",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      },
+      {
+        "name": "Collection 7",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      },
+      {
+        "name": "Collection 8",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      },
+      {
+        "name": "Collection 10",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      },
+      {
+        "name": "Collection 11",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      }
+    ],
+    
+    "Collection 1": [
+{
+    "Wallpaper":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+  },
+  {
+    "Wallpaper": "https://browsecat.net/sites/default/files/anime-cool-pic-wallpapers-60936-94745-8841980.png"
+  },
+  {
+    "Wallpaper": "https://wallpaperaccess.com/full/6319352.jpg"
+  },
+  {
+   "Wallpaper": "https://i.pinimg.com/originals/d5/e1/bf/d5e1bf9c7156e464f5e656b93cd5c632.jpg"
+  },
+  {
+    "Wallpaper": "https://cdn.statusqueen.com/desktopwallpaper/thumbnail/girl-night-raining-city-car-153.jpg"
+  },
+  {
+    "Wallpaper": "https://www.whatspaper.com/wp-content/uploads/2021/03/4k-anime-wallpaper-whatspaper-1.jpg"
+  },
+  {
+    "Wallpaper": "https://pbs.twimg.com/media/DEo05DuU0AAZ9VC.jpg"
+  },
+  {
+    "Wallpaper": "https://cdn.wallpapersafari.com/11/90/hLAkzQ.jpg"
+  },
     {
-      "title": "Collection 1"
-    },
-    {
-      "title": "Collection 2"
-    },
-    {
-      "title": "Collection 3"
-    },
-    {
-      "title": "Collection 4"
-    },
-    {
-      "title": "Collection 5"
-    },
-    {
-      "title": "Collection 6"
-    },
-    {
-      "title": "Collection 7"
-    },
-    {
-      "title": "Collection 8"
-    },
-    {
-      "title": "Collection 9"
-    },
-    {
-      "title": "Collection 10"
-    }
-  ],
-  
-  "Collection 1": [
-    {
-      "id": "1",
-      "image": "https://i.imgur.com/IjhEZzM.jpg"
-    },
-    {
-      "id": "2",
-      "image": "https://i.imgur.com/cV1qZkF.jpg"
-    },
-    {
-      "id": "3",
-      "image": "https://i.imgur.com/LfUosdM.jpg"
-    },
-    {
-      "id": "4",
-      "image": "https://i.imgur.com/2RRGM83.jpg"
-    },
-    {
-      "id": "5",
-      "image": "https://i.imgur.com/hwkECph.jpg"
-    },
-    {
-      "id": "6",
-      "image": "https://i.imgur.com/22Rst8f.jpg"
-    },
-    {
-      "id": "7",
-      "image": "https://i.imgur.com/R1RDz3v.jpg"
-    },
-    {
-      "id": "8",
-      "image": "https://i.imgur.com/CAJ9Jzs.jpg"
-    },
-    {
-      "id": "9",
-      "image": "https://i.imgur.com/8PzFzxq.jpg"
-    }
-  ]
+    "Wallpaper": "https://wallsbazar.com/wp-content/uploads/2021/12/Anime-Computer-Wallpaper.jpg"
+  },
+  {
+    "Wallpaper": "https://images.alphacoders.com/549/thumb-1920-549450.png"
+  },
+  {
+    "Wallpaper": "https://images7.alphacoders.com/105/thumb-1920-1052849.jpg"
+  },
+  {
+    "Wallpaper": "https://i.pinimg.com/originals/19/ef/13/19ef1399ed2afe6a786430d3c3da8031.png"
+  },
+  {
+   "Wallpaper": "https://wallpaperaccess.com/full/1217357.jpg"
+  },
+  {
+    "Wallpaper": "https://wallpaperaccess.com/full/1117452.jpg"
+  },
+  {
+    "Wallpaper": "https://www.guidingtech.com/wp-content/uploads/Best-Anime-Fullmetal-Alchemist-Brotherhood-wallpapers_4d470f76dc99e18ad75087b1b8410ea9.jpg"
+  },
+  {
+    "Wallpaper": "https://wallpaperaccess.com/full/435.jpg"
+  }
+]
 }
