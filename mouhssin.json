@@ -1,95 +1,129 @@
 {
-    "Ads": {
-        
-        "banner_type":"unity",
-		"inter_type":"admob",
-		"native_type":"appodeal",		
-			
-		"unity_id":"4292105",
-			
-		"appodeal_app_key" : "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
-         
-
-
-         "banner_yandex":"ca-app-pub56099942",
-		"interstitial_yandex":"ca-app-pub-567",
-    	"native_yandex":"ca-app-pub-4567",
-
-		"banner_admob":"ca-app-pub56099942",
-		"interstitial_admob":"ca-app-pub-567",
-		"native_admob":"ca-app-pub-4567"
-    
-	 
-        
-    }
- , "guideData" : [
-
+  "ADS": 
     {
+      "text_first_page":"facebook",
 
-        "txt_title":"tip test 1 ",
-        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "game_link":"https://win.ma/ar/espace-client/forfait"
+      "banner_type_main":"cpa",
+      "inter_type_main":"facebook",
+      "inter_or_reward_main":"inter",
+      "native_type_main":"cpa",
+      "reward_type_main": "facebook",
+      "native_or_mrec_main": "native",
 
-    },
-   {
+      "banner_type_data":"cpa",
+      "inter_type_data":"facebook",
+      "inter_or_reward_data":"inter",
+      "native_type_data":"cpa",
+      "reward_type_data": "facebook",
+      "native_or_mrec_data": "native",
 
-        "txt_title":"tip test 2 ",
-        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description1":"textttt",
-        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "game_link":"https://win.ma/ar/espace-client/forfait"
 
-    },
-   {
+      "banner_type_content":"cpa",
+      "inter_type_content":"facebook",
+      "inter_or_reward_content":"inter",
+      "native_type_content":"cpa",
+      "reward_type_content": "facebook",
+      "native_or_mrec_content": "native",
 
-        "txt_title":"tip test 3 ",
-        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "game_link":"https://win.ma/ar/espace-client/forfait"
 
-    }
-  , {
+       "ironsource_id": "unity",
+       "unity_id": "4292105",
 
-        "txt_title":"tip test 4 ",
-        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "game_link":"https://win.ma/ar/espace-client/forfait"
+       "cpa_image_banner": "https://wallpaper.dog/large/20487356.jpg",
+      "cpa_text_banner": "cpa test",
+	    "cpa_title_banner": "this is simple cpa body",
+	    "cpa_url_banner": "https://wallpaper.dog/large/20487356.jpg",
 
-    },
-   {
-
-        "txt_title":"tip test 5 ",
-        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "game_link":"https://win.ma/ar/espace-client/forfait"
-
-    }
+      "cpa_image_native": "https://wallpaper.dog/large/20487356.jpg",
+      "cpa_text_native": "cpa test",
+	    "cpa_title_native": "this is simple cpa body",
+	    "cpa_url_native": "https://wallpaper.dog/large/20487356.jpg",
   
-]
-    }
+    
+      "applovin_banner":"ca-app-pub56099942",
+      "applovin_interstitial":"ca-app-pub-567",
+      "applovin_reward":"ca-app-pub-4567",
+      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379",
+      "applovin_native":"ca-app-pub-3940256099942544/5354046379",
 
+      "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook_interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook_reward":"ca-app-pub-4567",
+      "facebook_mrec":"ca-app-pub-3940256099942544/5354046379",
+      "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    }
+  ,
+
+
+  "GuideContent": [
+    {
+      "title": "Collection 1"
+    },
+    {
+      "title": "Collection 2"
+    },
+    {
+      "title": "Collection 3"
+    },
+    {
+      "title": "Collection 4"
+    },
+    {
+      "title": "Collection 5"
+    },
+    {
+      "title": "Collection 6"
+    },
+    {
+      "title": "Collection 7"
+    },
+    {
+      "title": "Collection 8"
+    },
+    {
+      "title": "Collection 9"
+    },
+    {
+      "title": "Collection 10"
+    }
+  ],
+  
+  "Collection 1": [
+    {
+      "id": "1",
+      "image": "https://i.imgur.com/IjhEZzM.jpg"
+    },
+    {
+      "id": "2",
+      "image": "https://i.imgur.com/cV1qZkF.jpg"
+    },
+    {
+      "id": "3",
+      "image": "https://i.imgur.com/LfUosdM.jpg"
+    },
+    {
+      "id": "4",
+      "image": "https://i.imgur.com/2RRGM83.jpg"
+    },
+    {
+      "id": "5",
+      "image": "https://i.imgur.com/hwkECph.jpg"
+    },
+    {
+      "id": "6",
+      "image": "https://i.imgur.com/22Rst8f.jpg"
+    },
+    {
+      "id": "7",
+      "image": "https://i.imgur.com/R1RDz3v.jpg"
+    },
+    {
+      "id": "8",
+      "image": "https://i.imgur.com/CAJ9Jzs.jpg"
+    },
+    {
+      "id": "9",
+      "image": "https://i.imgur.com/8PzFzxq.jpg"
+    }
+  ]
+}
