@@ -1,75 +1,15 @@
 {
-	"ADS":
-		   {
-		
-			"banner_type":"",
-			"inter_type":"",
-			"native_type":"",
-			
-			
-			
-			"unity_id":"",
-			
-			
-			
-			"banner_admob":"ca-app-pub56099942",
-			"interstitial_admob":"ca-app-pub-567",
-			"native_admob":"ca-app-pub-4567",
-   
-			"banner_admob1":"ca-app56789",
-			"interstitial_admob1":"ca-app-p12",
-			"native_admob1":"ca-app-pub-39110",
-   
-			"banner_admob2":"ca-app-pub-3940256099942544/6300978111",
-			"interstitial_admob2":"ca-app-pub-3940256099942544/1033173712",
-			"native_admob2":"ca-app-pub-3940256099942544/2247696110",
-   
-		   "facebook_interstitial": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
-		   "facebook_banner": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061",
-		   "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-			   
-		   "facebook_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
-		   "facebook_banner1": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061",
-		   "facebook_native1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-			   
-	           "facebook_interstitial2": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
-		   "facebook_banner2": "IMG_16_9_APP_INSTALL#4677578285627060_4677591608959061",
-		   "facebook_native2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		   
-		  
-		   
-   "image1":"",
-   "image2":"",
-   "image3":"",
-   "image4":"",
-   "image5":"",
-   "image6":"",
-   "image7":"",
-   "image8":"",
-   "image9":"",
-   "image10":"",
-   
-   "tip1":"",
-   "tip2":"",
-			    "tip3":"",
-			    "tip4":"",
-			    "tip5":"",
-			    "tip6":"",
-			    "tip7":"",
-			    "tip8":"",
-			    "tip9":"",
-			    "tip10":"",
+  "Ads": {
     
-   "title1":"Security Breach Walkthrough",
-   "title2":"rehearsal space",
-   "title3":"lost and found",
-   "title4":"loading dock",
-   "title5":"prize counter",
-   "title6":"main lobby",
-   "title7":"scary fast 7",
-   "title8":"scary fast 8",
-   "title9":"scary fast 9",
-   "title10":"scary fast 10"
-	  }
-   
-   }
+ 			   
+		"networkAds":"admob",
+		 
+    
+		"inter_id":"ca-app-pub-3940256099942544/1033173712",
+ 		"banner_id":"ca-app-pub-3940256099942544/6300978111",
+		 "native_id":"ca-app-pub-3940256099942544/6300978111"
+    
+		 
+		 
+  } 
+}
