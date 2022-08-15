@@ -1,93 +1,105 @@
 { "ADS":
     {
   
-      "banner_type":"unity",
-      "inter_type":"yandex",
-      "native_type":"admob",
-      "reward_type": "admob",
-  
-     
-      
-      "ironsource_id" : "11c7e1165",
-      "unity_id":"4292105",
+      "banner_type_main":"unity",
+      "inter_type_main":"unity",
+      "inter_or_reward_main":"inter",
+      "native_type_main":"unity",
+      "reward_type_main": "unity",
+      "native_or_mrec_main": "unity",
+
+      "banner_type_data":"unity",
+      "inter_type_data":"unity",
+      "inter_or_reward_data":"inter",
+      "native_type_data":"unity",
+      "reward_type_data": "unity",
+      "native_or_mrec_data": "unity",
+
+
+      "banner_type_content":"unity",
+      "inter_type_content":"unity",
+      "inter_or_reward_content":"inter",
+      "native_type_content":"unity",
+      "reward_type_content": "unity",
+      "native_or_mrec_content": "unity",
+
+
+       "ironsource_id": "unity",
+       "unity_id": "4292105",
+
+
+      "cpa_title": "cpa test",
+	"cpa_text": "this is simple cpa body",
+	"cpa_image": "https://wallpaper.dog/large/20487356.jpg",
+      	"cpa_url": "https://wallpaper.dog/large/20487356.jpg",
+
   
     
-  
-  
-  
-      "banner_yandex":"adf-279013/966631",
-      "interstitial_yandex":"adf-279013/966533",
-      "native_yandex":"adf-279013/966633",
-      "rewarde_yandex":"adf-279013/966487",
-  
-      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
-      "native_admob":"ca-app-pub-3940256099942544/2247696110",
-      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
-
-      
       "applovin_banner":"ca-app-pub56099942",
       "applovin_interstitial":"ca-app-pub-567",
       "applovin_reward":"ca-app-pub-4567",
       "applovin_mrec":"ca-app-pub-3940256099942544/5354046379",
-	    
-	 "facebook_reward":"adf-279013/966631",
-      "facebook_banner":"adf-279013/966533",
-      "facebook_interstitial":"adf-279013/966633",
-      "facebook_native":"adf-279013/966487"
+      "applovin_native":"ca-app-pub-3940256099942544/5354046379",
+
+      "facebook_banner":"ca-app-pub56099942",
+      "facebook_interstitial":"ca-app-pub-567",
+      "facebook_reward":"ca-app-pub-4567",
+      "facebook_mrec":"ca-app-pub-3940256099942544/5354046379",
+      "facebook_native":"ca-app-pub-3940256099942544/5354046379"
+
+
   
     },
-    "wallpaper": [
-{
-    "Wallpaper":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-  },
-  {
-    "Wallpaper": "https://browsecat.net/sites/default/files/anime-cool-pic-wallpapers-60936-94745-8841980.png"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/6319352.jpg"
-  },
-  {
-   "Wallpaper": "https://i.pinimg.com/originals/d5/e1/bf/d5e1bf9c7156e464f5e656b93cd5c632.jpg"
-  },
-  {
-    "Wallpaper": "https://cdn.statusqueen.com/desktopwallpaper/thumbnail/girl-night-raining-city-car-153.jpg"
-  },
-  {
-    "Wallpaper": "https://www.whatspaper.com/wp-content/uploads/2021/03/4k-anime-wallpaper-whatspaper-1.jpg"
-  },
-  {
-    "Wallpaper": "https://pbs.twimg.com/media/DEo05DuU0AAZ9VC.jpg"
-  },
-  {
-    "Wallpaper": "https://cdn.wallpapersafari.com/11/90/hLAkzQ.jpg"
-  },
+    "guideData": [
     {
-    "Wallpaper": "https://wallsbazar.com/wp-content/uploads/2021/12/Anime-Computer-Wallpaper.jpg"
-  },
-  {
-    "Wallpaper": "https://images.alphacoders.com/549/thumb-1920-549450.png"
-  },
-  {
-    "Wallpaper": "https://images7.alphacoders.com/105/thumb-1920-1052849.jpg"
-  },
-  {
-    "Wallpaper": "https://i.pinimg.com/originals/19/ef/13/19ef1399ed2afe6a786430d3c3da8031.png"
-  },
-  {
-   "Wallpaper": "https://wallpaperaccess.com/full/1217357.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/1117452.jpg"
-  },
-  {
-    "Wallpaper": "https://www.guidingtech.com/wp-content/uploads/Best-Anime-Fullmetal-Alchemist-Brotherhood-wallpapers_4d470f76dc99e18ad75087b1b8410ea9.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/435.jpg"
-  }
-]
-  }
-  
-  
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+       "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
+
+      
+    }, {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 2",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+              "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+
+
+      
+    },
+	{
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 3",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+              "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+
+
+      
+    }, {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 4",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+       "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+
+      
+    }, {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 5",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+              "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+	  
+      
+    }, {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 6",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+            "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+
+      
+    }
+  ]
+  }
+  
+  
+  
