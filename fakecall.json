@@ -53,7 +53,7 @@
       
     }, {
      	"title": "test title 2",
-      	"title": "https://wallpaper.dog/large/20487356.jpg",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
         "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
 	"isVip": true,
 	"show_button": false,
@@ -64,7 +64,7 @@
     },
 	{
       	"title": "test title 3",
-      	"title": "https://wallpaper.dog/large/20487356.jpg",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
         "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
 	"isVip": false,
 	"show_button": true,
@@ -74,7 +74,7 @@
       
     }, {
       	"title": "test title 4",
-      	"title": "https://wallpaper.dog/large/20487356.jpg",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
         "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
 	"isVip": false,
 	"show_button": false,
@@ -84,7 +84,7 @@
       
     }, {
      	"title": "test title 5",
-      	"title": "https://wallpaper.dog/large/20487356.jpg",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
         "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
 	"isVip": true,
 	"show_button": false,
@@ -94,7 +94,7 @@
       
     }, {
       	"title": "test title 6",
-      	"title": "https://wallpaper.dog/large/20487356.jpg",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
         "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
 	"isVip": true,
 	"show_button": true,
