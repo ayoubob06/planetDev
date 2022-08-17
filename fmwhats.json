@@ -1,9 +1,9 @@
 { "ADS":
     {
   
-      "banner_type":"admob",
+      "banner_type":"cpa",
       "inter_type":"admob",
-       "native_type":"cpa",
+       "native_type":"admob",
       "reward_type": "admob",
  
     
