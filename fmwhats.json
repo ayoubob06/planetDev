@@ -1,96 +1,110 @@
-{
-    "Apps": [
+{ "ADS":
     {
-     "title": "dddddddddddddddddddddddddd",
-      "image": "https://articlehoy.com/apps/app1.gif",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.lite"
+  
+      "banner_type":"applovin",
+      "inter_type":"applovin",
+       "native_type":"applovin",
+      "reward_type": "applovin",
+ 
+    
+
+
+       "ironsource_id": "unity",
+       "unity_id": "4292105",
+
+      "cpa_image_native": "cpa test",
+	"cpa_text_native": "this is simple cpa body",
+	"cpa_btn_title_native": "https://wallpaper.dog/large/20487356.jpg",
+      	"cpa_url_native": "https://wallpaper.dog/large/20487356.jpg",
+
+      "cpa_title": "cpa test",
+	"cpa_text": "this is simple cpa body",
+	"cpa_image": "https://wallpaper.dog/large/20487356.jpg",
+      	"cpa_url": "https://wallpaper.dog/large/20487356.jpg",
+
+  
+    
+      "applovin_banner":"7dc036a95ab8e332",
+      "applovin_interstitial":"fe3acc809f3c87b1",
+      "applovin_reward":"ca-app-pub-4567",
+      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379",
+      "applovin_native":"ca-app-pub-3940256099942544/5354046379",
+
+      "facebook_banner":"ca-app-pub56099942",
+      "facebook_interstitial":"ca-app-pub-567",
+      "facebook_reward":"02786725c1e32509",
+      "facebook_mrec":"6c76ee86707de068",
+      "facebook_native":"2f915319fb229ec4"
+
+
+  
     },
+    "guideData": [
     {
-      "title": "gggggggggggggggggggggg",
-      "image": "https://play-lh.googleusercontent.com/gwu26nUnfW9IeZNYH72FJP3UEf4ahFnZ7_l5TdWOBaoPGOXym4k_uuSJ7aSFtUY6Bw=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.mlite"
+      	"title": "test title 1",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+	"isVip": false,
+	"show_button": false,
+	"button_link": "https://wallpaper.dog/large/20487356.jpg",
+	"button_title": "open"
+
+
+      
+    }, {
+     	"title": "test title 2",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+	"isVip": true,
+	"show_button": false,
+	"button_link": "https://wallpaper.dog/large/20487356.jpg",
+	"button_title": "open"
+
+      
     },
-    {
-      "title": "Good Morning Animated Stickers",
-      "image": "https://play-lh.googleusercontent.com/F7s6aV-MWxLPVrNG7iBQBcdVuvwryDAQl5mRJyGf_dldcF7MqVRRifu1yX5ZtP2vs6VS=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.instagram.lite"
-    },
-    {
-      "title": "Animated Funny Stickers",
-      "image": "https://play-lh.googleusercontent.com/wcIvY2hQsJTK_TrJrG-vCRuCP0TrSGB9ShxGz84KmD3b6yWuCEsV6uNWijaaLlfT0Q=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.FunnyStickersMemes_forWhatsApp&gl=MA"
-    },
-    {
-      "title": "Flowers and Roses images GIFs",
-      "image": "https://play-lh.googleusercontent.com/Nt_EGrka-S1Tjad4YPV97Gy5TKpNG7Dt6eDmgIOuzDVg0u9oZfgVrENBGBaon1XKPkZR=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.romanticanimatedgif_flowersrosesgif_BouquetFlowersBeautifulgifs&gl=MA"
-    },
-    {
-      "title": "WAStickerApps animated emoji",
-      "image": "https://play-lh.googleusercontent.com/3MdrL4fJVVq9C3WN17Jr0xqmG_7a54kWGK9xHwrDPtQQXNIS49tViGZt88jk2rXk_Bk=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.animatedEmojiLove&gl=MA"
+	{
+      	"title": "test title 3",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+	"isVip": false,
+	"show_button": true,
+	"button_link": "https://wallpaper.dog/large/20487356.jpg",
+	"button_title": "open"
+
+      
+    }, {
+      	"title": "test title 4",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+	"isVip": false,
+	"show_button": false,
+	"button_link": "https://wallpaper.dog/large/20487356.jpg",
+	"button_title": "open"
+
+      
+    }, {
+     	"title": "test title 5",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+	"isVip": true,
+	"show_button": false,
+	"button_link": "https://wallpaper.dog/large/20487356.jpg",
+	"button_title": "open"
+  
+      
+    }, {
+      	"title": "test title 6",
+      	"image_url": "https://wallpaper.dog/large/20487356.jpg",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+	"isVip": true,
+	"show_button": true,
+	"button_link": "https://wallpaper.dog/large/20487356.jpg",
+	"button_title": "open"
+
+      
     }
   ]
-}
-,
-}  "guideData" : [
-
-    {
-
-        "txt_title":"tip test 1 ",
-        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
-    },
-   {
-
-        "txt_title":"tip test 2 ",
-        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description1":"textttt",
-        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
-    },
-   {
-
-        "txt_title":"tip test 3 ",
-        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
-    }
-  , {
-
-        "txt_title":"tip test 4 ",
-        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
-    },
-   {
-
-        "txt_title":"tip test 5 ",
-        "img_title":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "img_description1":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description1":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description2":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description2":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum.",
-        "img_description3":"https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
-        "txt_description3":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu'il est prêt ou que la mise en page est achevée. Généralement, on utilise un texte en faux latin, le Lorem ipsum ou Lipsum."
-    }
+  }
   
-]
-    }
-
+  
+  
