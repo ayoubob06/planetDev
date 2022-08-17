@@ -1,10 +1,10 @@
 { "ADS":
     {
   
-      "banner_type":"applovin",
-      "inter_type":"applovin",
-       "native_type":"applovin",
-      "reward_type": "applovin",
+      "banner_type":"admob",
+      "inter_type":"admob",
+       "native_type":"cpa",
+      "reward_type": "admob",
  
     
 
@@ -12,7 +12,7 @@
        "ironsource_id": "unity",
        "unity_id": "4292105",
 
-      "cpa_image_native": "cpa test",
+      "cpa_image_native": "https://wallpaper.dog/large/20487356.jpg",
 	"cpa_text_native": "this is simple cpa body",
 	"cpa_btn_title_native": "https://wallpaper.dog/large/20487356.jpg",
       	"cpa_url_native": "https://wallpaper.dog/large/20487356.jpg",
