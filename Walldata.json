@@ -1,103 +1,100 @@
+{ "ADS":
 {
-  "Json_Data": [
-    {
 
-      "Active_SDK": "ironsource facebook",
+  "banner_type": "admob",
+  "inter_type": "admob",
+  "native_type": "admob",
+  "reward_type": "admob",
 
+  "ironsource_id": "11c7e1165",
+ "unity_id": "4292105",
 
-      "Facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "Facebook_250": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	  
-      "IronSource_App_Key": "XXXXXXXXXXXXXX",
-      "IronSource_interstitial": "XXXXXXXXXXXXXX",
-      "IronSource_banner": "XXXXXXXXXXXXXX",
-	  
-      "Show__Live__Ads": "facebook",
-
-      "Custom__text": "Welcome To X Wallpaper App",
-
-      "Cpa_activate": "yes",
-      "Cpa_text": "Free Diamonds 4 Free Fire",
-      "Cpa_icon": "https://i.imgur.com/IOE3zEj.jpg",
-      "Cpa_url": "https://www.google.com/",
-	  
-
-      "Json_Checker": "dont_change_this"
-    }
-  ],
-
-
-  "GuideContent": [
-    {
-      "title": "Collection 1"
-    },
-    {
-      "title": "Collection 2"
-    },
-    {
-      "title": "Collection 3"
-    },
-    {
-      "title": "Collection 4"
-    },
-    {
-      "title": "Collection 5"
-    },
-    {
-      "title": "Collection 6"
-    },
-    {
-      "title": "Collection 7"
-    },
-    {
-      "title": "Collection 8"
-    },
-    {
-      "title": "Collection 9"
-    },
-    {
-      "title": "Collection 10"
-    }
-  ],
   
-  "Collection 1": [
+
+ 
+  "banner_yandex": "adf-279013/966533",
+  "interstitial_yandex": "adf-279013/966533",
+  "native_yandex": "adf-279013/966533",
+  "rewarde_yandex": "adf-279013/966487",
+
+   
+  
+
+  "banner_admob": "ca-app-pub-3940256099942544/1033173712",
+  "interstitial_admob": "ca-app-pub-3940256099942544/6300978111",
+  "native_admob": "ca-app-pub-3940256099942544/2247696110",
+  "rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
+
+   
+  "applovin_banner": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+  "applovin_interstitial": "ca-app-pub-4567",
+  "applovin_reward": "ca-app-pub-4567",
+  "applovin_mrec": "ca-app-pub-4567",
+
+  
+  "facebook_reward": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+  "facebook_banner": "ca-app-pub-4567",
+  "facebook_interstitial": "ca-app-pub-4567",
+  "facebook_native": "ca-app-pub-4567"
+
+  
+
+
+
+},
+  "wallpapers": [
     {
-      "id": "1",
-      "image": "https://i.imgur.com/IjhEZzM.jpg"
+      "Wallpaper": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 1 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+
+    }, {
+      "Wallpaper": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 2 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
     },
     {
-      "id": "2",
-      "image": "https://i.imgur.com/cV1qZkF.jpg"
-    },
-    {
-      "id": "3",
-      "image": "https://i.imgur.com/LfUosdM.jpg"
-    },
-    {
-      "id": "4",
-      "image": "https://i.imgur.com/2RRGM83.jpg"
-    },
-    {
-      "id": "5",
-      "image": "https://i.imgur.com/hwkECph.jpg"
-    },
-    {
-      "id": "6",
-      "image": "https://i.imgur.com/22Rst8f.jpg"
-    },
-    {
-      "id": "7",
-      "image": "https://i.imgur.com/R1RDz3v.jpg"
-    },
-    {
-      "id": "8",
-      "image": "https://i.imgur.com/CAJ9Jzs.jpg"
-    },
-    {
-      "id": "9",
-      "image": "https://i.imgur.com/8PzFzxq.jpg"
+      "Wallpaper": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 3 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+    }, {
+      "Wallpaper": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 4 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+    }, {
+      "Wallpaper": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 5 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+    }, {
+      "Wallpaper": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 6 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+
     }
-  ]
+  ] 
 }
+
