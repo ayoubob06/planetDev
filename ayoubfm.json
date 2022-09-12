@@ -1,136 +1,31 @@
-{ "ADS":
+{
+  "data": 
     {
-  
-      "banner_type":"unity",
-      "inter_type":"yandex",
-      "native_type":"admob",
-      "reward_type": "admob",
-  
-     
+
+      "ads_type":"admob",
+       
       
-      "ironsource_id" : "11c7e1165",
-      "unity_id":"4292105",
   
     
-  
-  
-  
-      "banner_yandex":"adf-279013/966631",
-      "interstitial_yandex":"adf-279013/966533",
-      "native_yandex":"adf-279013/966633",
-      "rewarde_yandex":"adf-279013/966487",
-  
+      
+      
       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
       "native_admob":"ca-app-pub-3940256099942544/2247696110",
-      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
-
+ 
+     
       
-      "applovin_banner":"ca-app-pub56099942",
-      "applovin_interstitial":"ca-app-pub-567",
-      "applovin_reward":"ca-app-pub-4567",
-      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379",
-	    
-	 "facebook_reward":"adf-279013/966631",
-      "facebook_banner":"adf-279013/966533",
-      "facebook_interstitial":"adf-279013/966633",
-      "facebook_native":"adf-279013/966487"
-  
-    },
-    "collections_names": [
-      {
-        "name": "Collection 1",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 2",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 3",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 4",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 5",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 6",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 7",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 8",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 10",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      },
-      {
-        "name": "Collection 11",
-        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-      }
-    ],
-    
-    "Collection 1": [
-{
-    "Wallpaper":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
-  },
-  {
-    "Wallpaper": "https://browsecat.net/sites/default/files/anime-cool-pic-wallpapers-60936-94745-8841980.png"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/6319352.jpg"
-  },
-  {
-   "Wallpaper": "https://i.pinimg.com/originals/d5/e1/bf/d5e1bf9c7156e464f5e656b93cd5c632.jpg"
-  },
-  {
-    "Wallpaper": "https://cdn.statusqueen.com/desktopwallpaper/thumbnail/girl-night-raining-city-car-153.jpg"
-  },
-  {
-    "Wallpaper": "https://www.whatspaper.com/wp-content/uploads/2021/03/4k-anime-wallpaper-whatspaper-1.jpg"
-  },
-  {
-    "Wallpaper": "https://pbs.twimg.com/media/DEo05DuU0AAZ9VC.jpg"
-  },
-  {
-    "Wallpaper": "https://cdn.wallpapersafari.com/11/90/hLAkzQ.jpg"
-  },
-    {
-    "Wallpaper": "https://wallsbazar.com/wp-content/uploads/2021/12/Anime-Computer-Wallpaper.jpg"
-  },
-  {
-    "Wallpaper": "https://images.alphacoders.com/549/thumb-1920-549450.png"
-  },
-  {
-    "Wallpaper": "https://images7.alphacoders.com/105/thumb-1920-1052849.jpg"
-  },
-  {
-    "Wallpaper": "https://i.pinimg.com/originals/19/ef/13/19ef1399ed2afe6a786430d3c3da8031.png"
-  },
-  {
-   "Wallpaper": "https://wallpaperaccess.com/full/1217357.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/1117452.jpg"
-  },
-  {
-    "Wallpaper": "https://www.guidingtech.com/wp-content/uploads/Best-Anime-Fullmetal-Alchemist-Brotherhood-wallpapers_4d470f76dc99e18ad75087b1b8410ea9.jpg"
-  },
-  {
-    "Wallpaper": "https://wallpaperaccess.com/full/435.jpg"
-  }
-]
-  }
-  
-  
+      "facebook_banner":"ca-app-pub-4567",
+      "facebook_interstitial":"ca-app-pub-3940256099942544/5354046379",
+      "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+ 
+      
 
+      "site_url":"https://washop.store/test/test.html",
+      "privacy_url":"https://washop.store/test/test.html"
+
+
+
+    }
+   
+}
