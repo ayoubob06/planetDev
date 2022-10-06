@@ -1,129 +1,65 @@
 {
   "ADS": 
     {
-      "text_first_page":"facebook",
-
-      "banner_type_main":"cpa",
-      "inter_type_main":"facebook",
-      "inter_or_reward_main":"inter",
-      "native_type_main":"cpa",
-      "reward_type_main": "facebook",
-      "native_or_mrec_main": "native",
-
-      "banner_type_data":"cpa",
-      "inter_type_data":"facebook",
-      "inter_or_reward_data":"inter",
-      "native_type_data":"cpa",
-      "reward_type_data": "facebook",
-      "native_or_mrec_data": "native",
-
-
-      "banner_type_content":"cpa",
-      "inter_type_content":"facebook",
-      "inter_or_reward_content":"inter",
-      "native_type_content":"cpa",
-      "reward_type_content": "facebook",
-      "native_or_mrec_content": "native",
-
+ 
+      "banner_type":"cpa",
+      "inter_type":"facebook",
+      "native_type":"inter",
+      "reward_type":"cpa",
+       
 
        "ironsource_id": "unity",
        "unity_id": "4292105",
-
-       "cpa_image_banner": "https://wallpaper.dog/large/20487356.jpg",
-      "cpa_text_banner": "cpa test",
-	    "cpa_title_banner": "this is simple cpa body",
-	    "cpa_url_banner": "https://wallpaper.dog/large/20487356.jpg",
-
-      "cpa_image_native": "https://wallpaper.dog/large/20487356.jpg",
-      "cpa_text_native": "cpa test",
-	    "cpa_title_native": "this is simple cpa body",
-	    "cpa_url_native": "https://wallpaper.dog/large/20487356.jpg",
-  
-    
+	    
+    "applovin_banner":"ca-app-pub56099942",
+      "applovin_interstitial":"ca-app-pub-567",
+      "applovin_reward":"ca-app-pub-4567",
+      "applovin_native":"ca-app-pub-3940256099942544/5354046379", 
+	    
+	    "applovin_banner":"ca-app-pub56099942",
+      "applovin_interstitial":"ca-app-pub-567",
+      "applovin_reward":"ca-app-pub-4567",
+      "applovin_native":"ca-app-pub-3940256099942544/5354046379",
+	    
       "applovin_banner":"ca-app-pub56099942",
       "applovin_interstitial":"ca-app-pub-567",
       "applovin_reward":"ca-app-pub-4567",
-      "applovin_mrec":"ca-app-pub-3940256099942544/5354046379",
       "applovin_native":"ca-app-pub-3940256099942544/5354046379",
-
+ 
       "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook_reward":"ca-app-pub-4567",
-      "facebook_mrec":"ca-app-pub-3940256099942544/5354046379",
-      "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+       "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
   ,
-
-
-  "GuideContent": [
-    {
-      "title": "Collection 1"
-    },
-    {
-      "title": "Collection 2"
-    },
-    {
-      "title": "Collection 3"
-    },
-    {
-      "title": "Collection 4"
-    },
-    {
-      "title": "Collection 5"
-    },
-    {
-      "title": "Collection 6"
-    },
-    {
-      "title": "Collection 7"
-    },
-    {
-      "title": "Collection 8"
-    },
-    {
-      "title": "Collection 9"
-    },
-    {
-      "title": "Collection 10"
-    }
-  ],
   
-  "Collection 1": [
+  "Images ": [
     {
-      "id": "1",
-      "image": "https://i.imgur.com/IjhEZzM.jpg"
+       "imageUrl": "https://i.imgur.com/IjhEZzM.jpg"
     },
     {
-      "id": "2",
-      "image": "https://i.imgur.com/cV1qZkF.jpg"
+       "imageUrl": "https://i.imgur.com/cV1qZkF.jpg"
     },
     {
-      "id": "3",
-      "image": "https://i.imgur.com/LfUosdM.jpg"
+       "imageUrl": "https://i.imgur.com/LfUosdM.jpg"
     },
     {
-      "id": "4",
-      "image": "https://i.imgur.com/2RRGM83.jpg"
+       "imageUrl": "https://i.imgur.com/2RRGM83.jpg"
     },
     {
-      "id": "5",
-      "image": "https://i.imgur.com/hwkECph.jpg"
+       "imageUrl": "https://i.imgur.com/hwkECph.jpg"
     },
     {
-      "id": "6",
-      "image": "https://i.imgur.com/22Rst8f.jpg"
+       "imageUrl": "https://i.imgur.com/22Rst8f.jpg"
     },
     {
-      "id": "7",
-      "image": "https://i.imgur.com/R1RDz3v.jpg"
+       "imageUrl": "https://i.imgur.com/R1RDz3v.jpg"
     },
     {
-      "id": "8",
-      "image": "https://i.imgur.com/CAJ9Jzs.jpg"
+       "imageUrl": "https://i.imgur.com/CAJ9Jzs.jpg"
     },
     {
-      "id": "9",
-      "image": "https://i.imgur.com/8PzFzxq.jpg"
+       "imageUrl": "https://i.imgur.com/8PzFzxq.jpg"
     }
   ]
 }
