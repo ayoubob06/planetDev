@@ -1,56 +1,88 @@
 {
-	"ADS": {
-		 "rewarde_type": "admob",
-		"native_type": "admob",
-		"inter_type": "admob",
-		
-		"banner_type": "admob",
-		"app_package_name": "com.kiloo.subwaysurf",
-		 "inter_or_rewarde":"inter",
+  "ADS": {
+    "rewarde_type": "admob",
+   "native_type": "admob",
+   "inter_type": "admob",
+   
+   "banner_type": "admob",
+   "app_package_name": "com.kiloo.subwaysurf",
+    "inter_or_rewarde":"inter",
 
-		"unity_id": "4292105",
+   "unity_id": "4292105",
 
- 
-		"ironsource_id": "11c7e1165",
 
-		"interstitial_yandex": "adf-279013/966533",
-		"banner_yandex": "adf-279013/966533",
-		"native_yandex": "adf-279013/966533",
-		"rewarde_yandex": "adf-279013/966487",
+   "ironsource_id": "11c7e1165",
 
-		"banner_applovin": "adf-279013/966533",
-		"native_applovin": "adf-279013/966533",
-		"interstitial_applovin": "adf-279013/966533",
-		"rewarde_applovin": "adf-279013/966487",
+   "interstitial_yandex": "adf-279013/966533",
+   "banner_yandex": "adf-279013/966533",
+   "native_yandex": "adf-279013/966533",
+   "rewarde_yandex": "adf-279013/966487",
 
-		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
-		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob": "ca-app-pub-3940256099942544/2247696110",
-		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
+   "banner_applovin": "adf-279013/966533",
+   "native_applovin": "adf-279013/966533",
+   "interstitial_applovin": "adf-279013/966533",
+   "rewarde_applovin": "adf-279013/966487",
 
-		"interstitial_admob1": "ca-app-p12",
-		"banner_admob1": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob1": "ca-app-pub-567",
-		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
+   "interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+   "banner_admob": "ca-app-pub-3940256099942544/6300978111",
+   "native_admob": "ca-app-pub-3940256099942544/2247696110",
+   "rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
 
-		"interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
-		"banner_admob2": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob2": "ca-app-pub-567",
-		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
+   "interstitial_admob1": "ca-app-p12",
+   "banner_admob1": "ca-app-pub-3940256099942544/6300978111",
+   "native_admob1": "ca-app-pub-567",
+   "rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
 
-		
-		"facebook_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-		"facebook_native": "ca-app-pub-4567",
-		"facebook_banner": "ca-app-pub-4567",
-		"facebook_rewarde": "ca-app-pub-4567",
+   "interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
+   "banner_admob2": "ca-app-pub-3940256099942544/6300978111",
+   "native_admob2": "ca-app-pub-567",
+   "rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
 
-		"facebook_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
-				"facebook_native1": "ca-app-pub-4567",
-		"facebook_rewarde1": "ca-app-pub-4567",
+   
+   "facebook_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+   "facebook_native": "ca-app-pub-4567",
+   "facebook_banner": "ca-app-pub-4567",
+   "facebook_rewarde": "ca-app-pub-4567",
 
-		
-		"facebook_interstitial2": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-				"facebook_native2": "ca-app-pub-4567",
-		"facebook_rewarde2": "ca-app-pub-4567"
-	}  
-   }
+   "facebook_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
+       "facebook_native1": "ca-app-pub-4567",
+   "facebook_rewarde1": "ca-app-pub-4567",
+
+   
+   "facebook_interstitial2": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+       "facebook_native2": "ca-app-pub-4567",
+   "facebook_rewarde2": "ca-app-pub-4567"
+ },
+  "Apps": [
+    {
+     "title": "dddddddddddddddddddddddddd",
+      "image": "https://articlehoy.com/apps/app1.gif",
+      "url": "https://play.google.com/store/apps/details?id=com.facebook.lite"
+    },
+    {
+      "title": "gggggggggggggggggggggg",
+      "image": "https://play-lh.googleusercontent.com/gwu26nUnfW9IeZNYH72FJP3UEf4ahFnZ7_l5TdWOBaoPGOXym4k_uuSJ7aSFtUY6Bw=s180-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.facebook.mlite"
+    },
+    {
+      "title": "Good Morning Animated Stickers",
+      "image": "https://play-lh.googleusercontent.com/F7s6aV-MWxLPVrNG7iBQBcdVuvwryDAQl5mRJyGf_dldcF7MqVRRifu1yX5ZtP2vs6VS=s180-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.instagram.lite"
+    },
+    {
+      "title": "Animated Funny Stickers",
+      "image": "https://play-lh.googleusercontent.com/wcIvY2hQsJTK_TrJrG-vCRuCP0TrSGB9ShxGz84KmD3b6yWuCEsV6uNWijaaLlfT0Q=s180-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.FunnyStickersMemes_forWhatsApp&gl=MA"
+    },
+    {
+      "title": "Flowers and Roses images GIFs",
+      "image": "https://play-lh.googleusercontent.com/Nt_EGrka-S1Tjad4YPV97Gy5TKpNG7Dt6eDmgIOuzDVg0u9oZfgVrENBGBaon1XKPkZR=s180-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.romanticanimatedgif_flowersrosesgif_BouquetFlowersBeautifulgifs&gl=MA"
+    },
+    {
+      "title": "WAStickerApps animated emoji",
+      "image": "https://play-lh.googleusercontent.com/3MdrL4fJVVq9C3WN17Jr0xqmG_7a54kWGK9xHwrDPtQQXNIS49tViGZt88jk2rXk_Bk=s180-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.animatedEmojiLove&gl=MA"
+    }
+  ]
+}
