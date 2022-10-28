@@ -1,31 +1,27 @@
-{
-  "data": 
+{ "ADS":
     {
-
-      "ads_type":"admob",
-       
-      
   
-    
-      
-      
+      "banner_type":"admob",
+      "inter_type":"admob",
+  
+   
       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
-      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+         
+      "applovin_banner":"ca-app-pub56099942",
+      "applovin_interstitial":"ca-app-pub-567",
  
-     
-      
-      "facebook_banner":"ca-app-pub-4567",
-      "facebook_interstitial":"ca-app-pub-3940256099942544/5354046379",
-      "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+       "facebook_banner":"adf-279013/966533",
+      "facebook_interstitial":"adf-279013/966633",
  
-      
-
-      "site_url":"https://washop.store/test/test.html",
-      "privacy_url":"https://washop.store/test/test.html"
-
-
-
-    }
+      "huawei_banner":"testb4znbuh3n2",
+      "huawei_interstitial":"testw6vs28auh3"   
    
-}
+	    
+
+  
+    } 
+  }
+  
+  
+  
