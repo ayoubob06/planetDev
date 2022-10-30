@@ -7,10 +7,9 @@
       "cpa_url":"yandex",
       "show_cpa":true,
 
-      "cpa_popup_image":"yandex",
-      "cpa_popup_title":"yandex",
-      "CpaPopUpSousTitle":"yandex",
-      "cpa_popup_url":"yandex",
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
       "banner_type":"admob",
