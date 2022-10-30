@@ -1,6 +1,18 @@
 { "ADS":
     {
   
+       "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa":true,
+
+      "cpa_popup_image":"yandex",
+      "cpa_popup_title":"yandex",
+      "CpaPopUpSousTitle":"yandex",
+      "cpa_popup_url":"yandex",
+        
+        
       "banner_type":"admob",
       "inter_type":"admob",
       "native_type":"admob",
