@@ -1,88 +1,111 @@
-{
-  "ADS": {
-    "rewarde_type": "admob",
-   "native_type": "admob",
-   "inter_type": "admob",
-   
-   "banner_type": "admob",
-   "app_package_name": "com.kiloo.subwaysurf",
-    "inter_or_rewarde":"inter",
-
-   "unity_id": "4292105",
-
-
-   "ironsource_id": "11c7e1165",
-
-   "interstitial_yandex": "adf-279013/966533",
-   "banner_yandex": "adf-279013/966533",
-   "native_yandex": "adf-279013/966533",
-   "rewarde_yandex": "adf-279013/966487",
-
-   "banner_applovin": "adf-279013/966533",
-   "native_applovin": "adf-279013/966533",
-   "interstitial_applovin": "adf-279013/966533",
-   "rewarde_applovin": "adf-279013/966487",
-
-   "interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
-   "banner_admob": "ca-app-pub-3940256099942544/6300978111",
-   "native_admob": "ca-app-pub-3940256099942544/2247696110",
-   "rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
-
-   "interstitial_admob1": "ca-app-p12",
-   "banner_admob1": "ca-app-pub-3940256099942544/6300978111",
-   "native_admob1": "ca-app-pub-567",
-   "rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
-
-   "interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
-   "banner_admob2": "ca-app-pub-3940256099942544/6300978111",
-   "native_admob2": "ca-app-pub-567",
-   "rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
-
-   
-   "facebook_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-   "facebook_native": "ca-app-pub-4567",
-   "facebook_banner": "ca-app-pub-4567",
-   "facebook_rewarde": "ca-app-pub-4567",
-
-   "facebook_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
-       "facebook_native1": "ca-app-pub-4567",
-   "facebook_rewarde1": "ca-app-pub-4567",
-
-   
-   "facebook_interstitial2": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-       "facebook_native2": "ca-app-pub-4567",
-   "facebook_rewarde2": "ca-app-pub-4567"
- },
-  "Apps": [
+{ "ADS":
     {
-     "title": "dddddddddddddddddddddddddd",
-      "image": "https://articlehoy.com/apps/app1.gif",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.lite"
+  
+      "banner_type":"admob",
+      "inter_type":"admob",
+      "native_type":"admob",
+      "reward_type":"admob",
+      
+
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
+     
+
+      "banner_yandex":"R-M-DEMO-300x50",
+      "native_yandex":"R-M-DEMO-interstitial",
+      "interstitial_yandex":"R-M-DEMO-native-i",
+      "rewarde_yandex":"R-M-DEMO-300x50",
+
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
+
+      "applovin_banner":"R-M-DEMO-300x50",
+      "applovin_interstitial":"R-M-DEMO-interstitial",
+      "applovin_reward":"R-M-DEMO-native-i",
+      "applovin_native":"R-M-DEMO-300x50",
+
+      "facebook_banner":"R-M-DEMO-interstitial",
+      "facebook_interstitial":"R-M-DEMO-native-i",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"R-M-DEMO-interstitial"
+
+  
+    },
+    "skins": [
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+
+      
     },
     {
-      "title": "gggggggggggggggggggggg",
-      "image": "https://play-lh.googleusercontent.com/gwu26nUnfW9IeZNYH72FJP3UEf4ahFnZ7_l5TdWOBaoPGOXym4k_uuSJ7aSFtUY6Bw=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.mlite"
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+      
     },
     {
-      "title": "Good Morning Animated Stickers",
-      "image": "https://play-lh.googleusercontent.com/F7s6aV-MWxLPVrNG7iBQBcdVuvwryDAQl5mRJyGf_dldcF7MqVRRifu1yX5ZtP2vs6VS=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.instagram.lite"
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+      
+    }
+    ,{
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+
+      
     },
     {
-      "title": "Animated Funny Stickers",
-      "image": "https://play-lh.googleusercontent.com/wcIvY2hQsJTK_TrJrG-vCRuCP0TrSGB9ShxGz84KmD3b6yWuCEsV6uNWijaaLlfT0Q=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.FunnyStickersMemes_forWhatsApp&gl=MA"
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
     },
     {
-      "title": "Flowers and Roses images GIFs",
-      "image": "https://play-lh.googleusercontent.com/Nt_EGrka-S1Tjad4YPV97Gy5TKpNG7Dt6eDmgIOuzDVg0u9oZfgVrENBGBaon1XKPkZR=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.romanticanimatedgif_flowersrosesgif_BouquetFlowersBeautifulgifs&gl=MA"
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+     
     },
     {
-      "title": "WAStickerApps animated emoji",
-      "image": "https://play-lh.googleusercontent.com/3MdrL4fJVVq9C3WN17Jr0xqmG_7a54kWGK9xHwrDPtQQXNIS49tViGZt88jk2rXk_Bk=s180-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.jijastickers.animatedEmojiLove&gl=MA"
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
     }
   ]
-}
+  }
