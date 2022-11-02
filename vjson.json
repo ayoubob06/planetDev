@@ -15,6 +15,11 @@
  	"ironsource_id":"admob",
         "unity_id":"admob",
 	    
+	 "banner_yandex":"ca-app-pub-3940256099942544/6300978111",
+        "native_yandex":"ca-app-pub-3940256099942544/1033173712",
+ 	"interstitial_yandex":"ca-app-pub-3940256099942544/5354046379",
+        "rewarde_yandex":"ca-app-pub-3940256099942544/2247696110",
+	    
 	    
 	"banner_admob":"ca-app-pub-3940256099942544/6300978111",
         "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
