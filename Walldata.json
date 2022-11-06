@@ -1,10 +1,7 @@
 { "ADS":
     {
   
-      "text_1":"this test text 1",
-      "text_2":"this test text 2",
-      "text_3":"this test text 3",
-      
+     
 
       "banner_type_1":"admob",
       "inter_type_1":"admob",
@@ -44,6 +41,7 @@
      
 
       "ironsource_id":"ca-app-pub56099942",
+      "unity_id":"ca-app-pub56099942",
 
 
       
