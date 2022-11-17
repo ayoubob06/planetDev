@@ -1,33 +1,150 @@
 {
-  "ADS": {
-    "native_type": "admob",
-   "inter_type": "admob",
-   
-   "banner_type": "admob",
+	"ADS": {
+		 "banner_type": "admob",
+		"inter_type": "admob",
+		"native_type": "admob",
+		"reward_type": "admob",
+
+		 
+		"ironsource_id": "4292105",
+
  
- 
+		"unity_id": "11c7e1165",
 
-   "ironsource_id": "11c7e1165",
+		"banner_yandex": "adf-279013/966533",
+		"interstitial_yandex": "adf-279013/966533",
+		"native_yandex": "adf-279013/966533",
+		"rewarde_yandex": "adf-279013/966487",
 
-  
-  
+		"interstitial_yandex1": "adf-279013/966533",
+		"rewarde_yandex1": "adf-279013/966487",
 
-   "interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
-   "banner_admob": "ca-app-pub-3940256099942544/6300978111",
-   "native_admob": "ca-app-pub-3940256099942544/2247696110",
- 
-   
+		"interstitial_yandex2": "adf-279013/966533",
+		"rewarde_yandex2": "adf-279013/966487",
 
-   
-   "facebook_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-   "facebook_native": "ca-app-pub-4567",
-   "facebook_banner": "ca-app-pub-4567",
- 
-  
+		"interstitial_yandex_1": "adf-279013/966533",
+		"rewarde_yandex_1": "adf-279013/966533",
 
-   
-   "huawei_banner": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-       "huawei_native": "ca-app-pub-4567",
-   "huawei_interstitial": "ca-app-pub-4567"
- }
+		"interstitial_yandex_2": "adf-279013/966533",
+		"rewarde_yandex_2": "adf-279013/966533",
+		
+
+		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
+		"native_admob": "ca-app-pub-3940256099942544/2247696110",
+		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
+
+		"interstitial_admob1": "ca-app-p12",
+ 		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
+
+		"interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
+ 		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
+
+		"applovin_banner": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+		"applovin_interstitial": "ca-app-pub-4567",
+		"applovin_reward": "ca-app-pub-4567",
+		"applovin_native": "ca-app-pub-4567",
+
+		
+		"facebook_reward": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+		"facebook_banner": "ca-app-pub-4567",
+		"facebook_interstitial": "ca-app-pub-4567",
+		"facebook_native": "ca-app-pub-4567" 
+   }, "prinkdata": [
+    {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 1 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 2 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+    },
+    {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 3 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 4 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 5 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 6 ",
+      "datee": "12-05-2022",
+      "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      
+
+
+
+    }
+  ],
+  "tv_data": [
+    {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 1 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+      
+
+
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 2 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+    },
+    {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 3 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 4 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 5 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+    }, {
+      "Image_Url": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "test title 6 ",
+      "url": "https://wallpaper.dog/large/20487356.jpg"
+
+
+
+    }
+  ]
 }
+
