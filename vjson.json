@@ -15,6 +15,12 @@
  	"ironsource_id":"admob",
         "unity_id":"admob",
 	    
+	        
+	 "native_huawei":"ca-app-pub-3940256099942544/6300978111",
+        "banner_huawei":"ca-app-pub-3940256099942544/1033173712",
+ 	"interstitial_huawei":"ca-app-pub-3940256099942544/5354046379",
+	    
+	    
 	 "banner_yandex":"ca-app-pub-3940256099942544/6300978111",
         "native_yandex":"ca-app-pub-3940256099942544/1033173712",
  	"interstitial_yandex":"ca-app-pub-3940256099942544/5354046379",
