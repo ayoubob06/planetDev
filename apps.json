@@ -6,35 +6,35 @@
 
 		
 
-			"banner_main_type":"unity",
+			"banner_main_type":"admob",
 
-			"inter_main_type":"unity",
+			"inter_main_type":"admob",
 
-			"native_main_type":"unity",
+			"native_main_type":"admob",
 
 			
 
-			"banner_tips_type":"unity",
+			"banner_tips_type":"admob",
 
-			"inter_tips_type":"unity",
+			"inter_tips_type":"admob",
 
-			"native_tips_type":"unity",
+			"native_tips_type":"admob",
 
    
 
-   		        "banner_desc_type":"unity",
+   		        "banner_desc_type":"admob",
 
-			"inter_desc_type": "unity",
+			"inter_desc_type": "admob",
 
-			"native_desc_type" :"unity",
+			"native_desc_type" :"admob",
 
 			
 
-			"banner_wall_type":"unity",
+			"banner_wall_type":"admob",
 
-			"inter_wall_type":"unity",
+			"inter_wall_type":"admob",
 
-			"native_wall_type":"unity",
+			"native_wall_type":"admob",
 
    
 
@@ -56,7 +56,7 @@
 
 			"banner_admob":"ca-app-pub-7745594200951441/6206360597",
 
-			"interstitial_admob":"ca-app-pub-7745594200951441/3388625569",
+			"interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
 
 			"native_admob":"ca-app-pub-7745594200951441/5823217214",
 
@@ -64,7 +64,7 @@
 
 			"banner_admob1":"ca-app-pub-7745594200951441/6206360597",
 
-			"interstitial_admob1":"ca-app-pub-7745594200951441/3388625569",
+			"interstitial_admob1":"ca-app-pub-3940256099942544/1033173712",
 
 			"native_admob1":"ca-app-pub-7745594200951441/5823217214",
 
@@ -72,7 +72,7 @@
 
 			"banner_admob2":"ca-app-pub-7745594200951441/6206360597",
 
-			"interstitial_admob2":"ca-app-pub-7745594200951441/3388625569",
+			"interstitial_admob2":"ca-app-pub-3940256099942544/1033173712",
 
 			"native_admob2":"ca-app-pub-7745594200951441/5823217214",
 
