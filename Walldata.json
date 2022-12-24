@@ -87,132 +87,61 @@
     
   
     },
-    "guideData": [
+    "collections_names": [
+      {
+        "name": "Collection 1",
+        "imageUrl": "https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+      }
+    ],
+    
+    "Collection 1": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
-
-      
-    },
+    "Wallpaper":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+  },
+  {
+    "Wallpaper": "https://browsecat.net/sites/default/files/anime-cool-pic-wallpapers-60936-94745-8841980.png"
+  },
+  {
+    "Wallpaper": "https://wallpaperaccess.com/full/6319352.jpg"
+  },
+  {
+   "Wallpaper": "https://i.pinimg.com/originals/d5/e1/bf/d5e1bf9c7156e464f5e656b93cd5c632.jpg"
+  },
+  {
+    "Wallpaper": "https://cdn.statusqueen.com/desktopwallpaper/thumbnail/girl-night-raining-city-car-153.jpg"
+  },
+  {
+    "Wallpaper": "https://www.whatspaper.com/wp-content/uploads/2021/03/4k-anime-wallpaper-whatspaper-1.jpg"
+  },
+  {
+    "Wallpaper": "https://pbs.twimg.com/media/DEo05DuU0AAZ9VC.jpg"
+  },
+  {
+    "Wallpaper": "https://cdn.wallpapersafari.com/11/90/hLAkzQ.jpg"
+  },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
-
-      
-    },
-    {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
-
-      
-    }
-    ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
-
-      
-    },
-    {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
-
-      
-    },
-    {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
-
-      
-    },
-    {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-
-
-
-      
-    }
-  ], "Apps": [
-    {
-      
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-
-      
-    },
-    { 
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-
-      
-    },
-    {
-      
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-      
-    }
-    ,{
-       
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-
-      
-    },
-    {
-       
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-    },
-    {
-       
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-    },
-    {
-      
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-    }
-  ]
+    "Wallpaper": "https://wallsbazar.com/wp-content/uploads/2021/12/Anime-Computer-Wallpaper.jpg"
+  },
+  {
+    "Wallpaper": "https://images.alphacoders.com/549/thumb-1920-549450.png"
+  },
+  {
+    "Wallpaper": "https://images7.alphacoders.com/105/thumb-1920-1052849.jpg"
+  },
+  {
+    "Wallpaper": "https://i.pinimg.com/originals/19/ef/13/19ef1399ed2afe6a786430d3c3da8031.png"
+  },
+  {
+   "Wallpaper": "https://wallpaperaccess.com/full/1217357.jpg"
+  },
+  {
+    "Wallpaper": "https://wallpaperaccess.com/full/1117452.jpg"
+  },
+  {
+    "Wallpaper": "https://www.guidingtech.com/wp-content/uploads/Best-Anime-Fullmetal-Alchemist-Brotherhood-wallpapers_4d470f76dc99e18ad75087b1b8410ea9.jpg"
+  },
+  {
+    "Wallpaper": "https://wallpaperaccess.com/full/435.jpg"
+  }
+]
   }
