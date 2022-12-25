@@ -23,38 +23,111 @@
         "rewarde_yandex":"ca-app-pub-3940256099942544/2247696110",
 	    
 	    
-	"banner_admob":"ca-app-pub-3940256099942544/6300978111",
-        "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
- 	"reward_admob":"ca-app-pub-3940256099942544/5354046379",
-        "native_admob":"ca-app-pub-3940256099942544/2247696110",
+	"banner_huawei":"testw6vs28auh3",
+        "interstitial_huawei":"teste9ih9j0rc3",
+ 	"reward_huawei":"testx9dtjwj8hp",
+        "native_huawei":"testy63txaom86",
 
- 	"banner_admob1":"ca-app-pub-3940256099942544/6300978111",
-        "interstitial_admob1":"ca-app-pub-3940256099942544/2247696110",
- 	"reward_admob1":"ca-app-pub-3940256099942544/1033173712",
-        "native_admob1":"ca-app-pub-3940256099942544/1033173712",  
+ 	"banner_admob":"ca-app-pub-3940256099942544/6300978111",
+        "interstitial_admob":"ca-app-pub-3940256099942544/2247696110",
+ 	"reward_admob":"ca-app-pub-3940256099942544/1033173712",
+        "native_admob":"ca-app-pub-3940256099942544/1033173712",  
 	    
 	    
-	"facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	 "facebook_reward":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	    
-	 "facebook_banner1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_interstitial1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	 "facebook_reward1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_native1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	
+		"applovin_banner":"ca-app-pub56099942",
+		"applovin_interstitial":"ca-app-pub-567",
+  "applovin_reward":"ca-app-pub-3940256099942544/5354046379",
+		 "applovin_native":"ca-app-pub-3940256099942544/5354046379",
 
-      	"applovin_banner":"ca-app-pub56099942",
-      	"applovin_interstitial":"ca-app-pub-567",
-	"applovin_reward":"ca-app-pub-3940256099942544/5354046379",
-       	"applovin_native":"ca-app-pub-3940256099942544/5354046379",
-	    
-	"applovin_banner1":"ca-app-pub56099942",
-      	"applovin_interstitial1":"ca-app-pub-567",
-	"applovin_reward1":"ca-app-pub-3940256099942544/5354046379",
-       	"applovin_native1":"ca-app-pub-3940256099942544/5354046379"
 
-    }
+		 "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		 "facebook_interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  "facebook_reward":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		 "facebook_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+   
+    },
+	"tv_data":[
+		{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test title",
+			"url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test title",
+			"url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+
+		}, {
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test title",
+			"url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test title",
+			"url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test title",
+			"url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test title",
+			"url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test title",
+			"url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg"
+
+		}
+	],
+	"prinkdata" : [
+		{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test test ",
+			"datee":"06/12/2022",
+			"text_Content":"trtrttsdf hfvhc fdildhcub dhferiufhdsnf erufheriuth ernblot lotrg b cvjbdld .b gighrtgnbrptghrt"
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test test ",
+			"datee":"06/12/2022",
+			"text_Content":"trtrttsdf hfvhc fdildhcub dhferiufhdsnf erufheriuth ernblot lotrg b cvjbdld .b gighrtgnbrptghrt"
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test test ",
+			"datee":"06/12/2022",
+			"text_Content":"trtrttsdf hfvhc fdildhcub dhferiufhdsnf erufheriuth ernblot lotrg b cvjbdld .b gighrtgnbrptghrt"
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test test ",
+			"datee":"06/12/2022",
+			"text_Content":"trtrttsdf hfvhc fdildhcub dhferiufhdsnf erufheriuth ernblot lotrg b cvjbdld .b gighrtgnbrptghrt"
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test test ",
+			"datee":"06/12/2022",
+			"text_Content":"trtrttsdf hfvhc fdildhcub dhferiufhdsnf erufheriuth ernblot lotrg b cvjbdld .b gighrtgnbrptghrt"
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test test ",
+			"datee":"06/12/2022",
+			"text_Content":"trtrttsdf hfvhc fdildhcub dhferiufhdsnf erufheriuth ernblot lotrg b cvjbdld .b gighrtgnbrptghrt"
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test test ",
+			"datee":"06/12/2022",
+			"text_Content":"trtrttsdf hfvhc fdildhcub dhferiufhdsnf erufheriuth ernblot lotrg b cvjbdld .b gighrtgnbrptghrt"
+		},{
+			"Image_Url":"https://roonby.com/wp-content/uploads/2022/01/cool-anime-wallpaper-hd.jpg",
+			"title":"test test ",
+			"datee":"06/12/2022",
+			"text_Content":"trtrttsdf hfvhc fdildhcub dhferiufhdsnf erufheriuth ernblot lotrg b cvjbdld .b gighrtgnbrptghrt"
+		}
+	]
 
  
 
