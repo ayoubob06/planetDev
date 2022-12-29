@@ -5,6 +5,10 @@
         "text_1":"this test text 1",
       "text_2":"this test text 2",
       "text_3":"this test text 3",
+        
+        "show_native_timer":false,
+      "timer":3,
+        
       "banner_type_1":"admob",
       "inter_type_1":"admob",
       "inter_or_reward_1":"inter",
@@ -40,10 +44,15 @@
       "reward_type_5":"admob",
       "native_or_mrec_5":"native",
 
-     
+     "banner_type_6":"admob",
+      "inter_type_6":"admob",
+      "inter_or_reward_6":"inter",
+      "native_type_6":"admob",
+      "reward_type_6":"admob",
+      "native_or_mrec_6":"native",
 
       "ironsource_id":"ca-app-pub56099942",
-      "unity_id":"ca-app-pub56099942",
+      "unityId":"ca-app-pub56099942",
 
 
       
@@ -83,7 +92,14 @@
       "interstitial_id_5":"ca-app-pub-3940256099942544/1033173712",
       "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
       "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_5":"ca-app-pub-3940256099942544/2247696110"
+      "native_id_5":"ca-app-pub-3940256099942544/2247696110",
+        
+        
+         "banner_id_6":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_6":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_6":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_6":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_6":"ca-app-pub-3940256099942544/2247696110"
     
   
     },
