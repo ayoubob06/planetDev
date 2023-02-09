@@ -17,7 +17,9 @@
       "banner_id":"R-M-DEMO-300x50",
       "interstitial_id":"R-M-DEMO-interstitial",
       "reward_id":"R-M-DEMO-native-i",
-      "native_id":"R-M-DEMO-300x50"
+      "native_id":"R-M-DEMO-300x50",
+        "more_apps_image": "https://wallpaper.dog/large/20487356.jpg",
+        "more_apps_link": "https://wallpaper.dog/large/20487356.jpg"
         
         
    
