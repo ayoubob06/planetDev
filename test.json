@@ -4,20 +4,22 @@
      
     
         
-      "banner_type":"huawei",
-      "inter_type":"huawei",
-      "native_type":"huawei",
-      "reward_type":"huawei",
+      "banner_type":"admob",
+      "inter_type":"admob",
+      "native_type":"admob",
+      "reward_type":"admob",
       
 
       "ironsource_id":"jhd78302",
       "unity_id":"87320283",
      
 
-      "banner_id":"R-M-DEMO-300x50",
-      "interstitial_id":"R-M-DEMO-interstitial",
-      "reward_id":"R-M-DEMO-native-i",
-      "native_id":"R-M-DEMO-300x50",
+      "banner_id":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id":"ca-app-pub-3940256099942544/5354046379",
+      "native_id":"ca-app-pub-3940256099942544/1044960115",
+        
+        
         "more_apps_image": "https://wallpaper.dog/large/20487356.jpg",
         "more_apps_link": "https://wallpaper.dog/large/20487356.jpg"
         
