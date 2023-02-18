@@ -1,130 +1,234 @@
 { "ADS":
     {
-  
-     
+
+      "text_1":"this test text 1",
+      "text_2":"this test text 2",
+      "text_3":"this test text 3",
+        
+		
+        "show_native_timer":false,
+        "timer":3,
+        
+		
+      "banner_type_1":"admob",
+      "inter_type_1":"admob",
+      "inter_or_reward_1":"inter",
+      "native_type_1":"applovin",
+      "reward_type_1":"admob",
+      "native_or_mrec_1":"native",
+
+      "banner_type_2":"applovin",
+      "inter_type_2":"admob",
+      "inter_or_reward_2":"inter",
+      "native_type_2":"admob",
+      "reward_type_2":"admob",
+      "native_or_mrec_2":"native",
+
+      "banner_type_3":"admob",
+      "inter_type_3":"applovin",
+      "inter_or_reward_3":"inter",
+      "native_type_3":"admob",
+      "reward_type_3":"admob",
+      "native_or_mrec_3":"native",
+
+      "banner_type_4":"admob",
+      "inter_type_4":"admob",
+      "inter_or_reward_4":"inter",
+      "native_type_4":"admob",
+      "reward_type_4":"admob",
+      "native_or_mrec_4":"native",
+
+      "banner_type_5":"admob",
+      "inter_type_5":"admob",
+      "inter_or_reward_5":"inter",
+      "native_type_5":"admob",
+      "reward_type_5":"admob",
+      "native_or_mrec_5":"native",
+
+      "banner_type_6":"admob",
+      "inter_type_6":"admob",
+      "inter_or_reward_6":"inter",
+      "native_type_6":"admob",
+      "reward_type_6":"admob",
+      "native_or_mrec_6":"native",
+
+      "ironsource_id":"ca-app-pub56099942",
+      "unityId":"ca-app-pub56099942",
+
+
+      
+      "cpa_image":"R-M-DEMO-300x50",
+      "cpa_text":"R-M-DEMO-interstitial",
+      "cpa_title":"R-M-DEMO-native-i",
+      "cpa_url":"R-M-DEMO-300x50",
+
+
+      "banner_id_1":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_1":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_1":"2f915319fb229ec4",
     
+
+      "banner_id_2":"7dc036a95ab8e332",
+      "interstitial_id_2":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_2":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_2":"ca-app-pub-3940256099942544/2247696110",
+    
+	
+      "banner_id_3":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_3":"fe3acc809f3c87b1",
+      "reward_id_3":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_3":"ca-app-pub-3940256099942544/2247696110",
+    
+	
+      "banner_id_4":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_4":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_4":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_4":"ca-app-pub-3940256099942544/2247696110",
+    
+	
+      "banner_id_5":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_5":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_5":"ca-app-pub-3940256099942544/2247696110",
         
-      "banner_type":"unity",
-      "inter_type":"unity",
-      "native_type":"yandex",
-      "reward_type":"unity",
-      
-
-      "ironsource_id":"1896f3d85",
-      "unity_id":"5149029",
-     
-
-     "banner_id":"R-M-DEMO-300x50",
-      "interstitial_id":"R-M-DEMO-interstitial",
-      "reward_id":"R-M-DEMO-native-i",
-      "native_id":"R-M-DEMO-300x50",
         
-        
-        "more_apps_image": "https://wallpaper.dog/large/20487356.jpg",
-        "more_apps_link": "https://wallpaper.dog/large/20487356.jpg"
-        
-        
-   
-  
+      "banner_id_6":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_6":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_6":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_6":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_6":"ca-app-pub-3940256099942544/2247696110"
+    
     },
-    "skins": [
+	
+	
+  "collections_names": [
+      {
+        "name": "Collection 1",
+        "imageUrl": "https://i.pinimg.com/originals/dd/ae/b7/ddaeb7a8d55fe33121b99bab693a8496.png"
+      },
+      {
+        "name": "Collection 2",
+        "imageUrl": "https://c4.wallpaperflare.com/wallpaper/734/152/929/dogs-corgi-baby-animal-depth-of-field-wallpaper-preview.jpg"
+      },
+      {
+        "name": "Collection 3",
+        "imageUrl": "https://c4.wallpaperflare.com/wallpaper/292/683/598/dogs-corgi-wallpaper-preview.jpg"
+      },
+      {
+        "name": "Collection 4",
+        "imageUrl": "https://c4.wallpaperflare.com/wallpaper/818/43/789/dogs-corgi-dog-pet-hd-wallpaper-preview.jpg"
+      }
+    ],
+	
+	
+	
+    "Collection 1": [
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
+       "Wallpaper":"https://i.pinimg.com/originals/67/83/a1/6783a10bade6676c554584f509f1a88e.jpg",
+       "Wallpaper2":"https://i.pinimg.com/736x/08/d9/4f/08d94f6c1379b90a556a8b9025a67593.jpg"
+  },
+  {
+       "Wallpaper": "https://i.pinimg.com/736x/9a/3c/14/9a3c14c99c9a621567370caa50794c89.jpg",
+       "Wallpaper2": "https://i.pinimg.com/originals/13/ea/84/13ea84575baf5804ec308a18eb5e4795.jpg"
+  },
+  {
+       "Wallpaper": "https://i.pinimg.com/736x/c2/7f/dd/c27fdd8abe5ebbca93d6f3edbca1ef50.jpg",
+       "Wallpaper2":"https://i.pinimg.com/originals/4a/80/e6/4a80e6fc34dd39377f9e93062efce2d1.jpg"
 
+  },
+  {
+       "Wallpaper": "https://i.pinimg.com/736x/7d/07/83/7d0783da015c902fb0b79bb69a228b69.jpg",
+       "Wallpaper2":"https://i.pinimg.com/736x/5c/eb/c0/5cebc0092bbae69bb8c3891bf9de98c9.jpg"
 
-      
-    },
+  },
+  {
+       "Wallpaper": "https://i.pinimg.com/originals/8a/8c/23/8a8c234f6a68dd393d750196c0f400d6.png",
+       "Wallpaper2":"https://i.pinimg.com/736x/c6/26/35/c62635af0406c90bd8101aae7bce1c89.jpg"
+
+  }
+],
+
+    "Collection 2": [
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
+       "Wallpaper":"https://i.pinimg.com/originals/22/2b/35/222b3540a53feeb7ead894e392dd4aa5.jpg",
+       "Wallpaper2":"https://wallpaper.dog/large/20533902.jpg"
+  },
+  {
+       "Wallpaper": "https://i.pinimg.com/474x/aa/96/49/aa96496321b70b7aa32ba5a1cfe0581a.jpg",
+       "Wallpaper2": "https://myandroidwalls.com/wp-content/uploads/2021/05/Anonymous-Phone-Wallpaper-4k.jpg"
+  },
+  {
+       "Wallpaper": "https://w0.peakpx.com/wallpaper/580/213/HD-wallpaper-anonymous-mask-anonymous-guy-mask-thumbnail.jpg",
+       "Wallpaper2":"https://images.hdqwalls.com/download/scorpion-mortal-kombat-x-poster-mh-1125x2436.jpg"
 
-      
-    },
-    {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
+  },
+  {
+       "Wallpaper": "https://images.hdqwalls.com/download/mortal-kombat-11-ultimate-4k-15-1125x2436.jpg",
+       "Wallpaper2":"https://i.pinimg.com/originals/78/1d/dd/781ddd42e02ea1dbc360221a5e7c324d.jpg"
 
-      
-    }
-    ,{
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
+  },
+  {
+       "Wallpaper": "https://i.pinimg.com/736x/d1/72/94/d17294148492de022acf398b69270b3d.jpg",
+       "Wallpaper2":"https://wallpaper.dog/large/20534144.jpg"
 
+  }
+],
 
-      
-    },
+    "Collection 3": [
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
-    },
+       "Wallpaper":"https://w0.peakpx.com/wallpaper/338/503/HD-wallpaper-iphone-circles-iphone-12-pro-original-iphone-thumbnail.jpg",
+       "Wallpaper2":"https://wallpaper.dog/large/20533902.jpg"
+  },
+  {
+       "Wallpaper": "https://i.pinimg.com/474x/aa/96/49/aa96496321b70b7aa32ba5a1cfe0581a.jpg",
+       "Wallpaper2": "https://myandroidwalls.com/wp-content/uploads/2021/05/Anonymous-Phone-Wallpaper-4k.jpg"
+  },
+  {
+       "Wallpaper": "https://w0.peakpx.com/wallpaper/580/213/HD-wallpaper-anonymous-mask-anonymous-guy-mask-thumbnail.jpg",
+       "Wallpaper2":"https://images.hdqwalls.com/download/scorpion-mortal-kombat-x-poster-mh-1125x2436.jpg"
+
+  },
+  {
+       "Wallpaper": "https://images.hdqwalls.com/download/mortal-kombat-11-ultimate-4k-15-1125x2436.jpg",
+       "Wallpaper2":"https://i.pinimg.com/originals/78/1d/dd/781ddd42e02ea1dbc360221a5e7c324d.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.pinimg.com/736x/d1/72/94/d17294148492de022acf398b69270b3d.jpg",
+       "Wallpaper2":"https://wallpaper.dog/large/20534144.jpg"
+
+  }
+],
+
+    "Collection 4": [
     {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-     
-    },
-    {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
-    }, {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 8",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
-    }, {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 9",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
-    }, {
-      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 10",
-      "likeNumbers": "222 LIKES",
-      "commentNumbers": " 333 COMMENTS",
-      "downloadNumbers": "444 DOWNLOADS",
-      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
-       
-    }
-  ]
- 
+       "Wallpaper":"https://wallpaperaccess.com/full/1211953.jpg",
+       "Wallpaper2":"https://wallpaper.dog/large/20533902.jpg"
+  },
+  {
+       "Wallpaper": "https://i.pinimg.com/474x/aa/96/49/aa96496321b70b7aa32ba5a1cfe0581a.jpg",
+       "Wallpaper2": "https://myandroidwalls.com/wp-content/uploads/2021/05/Anonymous-Phone-Wallpaper-4k.jpg"
+  },
+  {
+       "Wallpaper": "https://w0.peakpx.com/wallpaper/580/213/HD-wallpaper-anonymous-mask-anonymous-guy-mask-thumbnail.jpg",
+       "Wallpaper2":"https://images.hdqwalls.com/download/scorpion-mortal-kombat-x-poster-mh-1125x2436.jpg"
+
+  },
+  {
+       "Wallpaper": "https://images.hdqwalls.com/download/mortal-kombat-11-ultimate-4k-15-1125x2436.jpg",
+       "Wallpaper2":"https://i.pinimg.com/originals/78/1d/dd/781ddd42e02ea1dbc360221a5e7c324d.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.pinimg.com/736x/d1/72/94/d17294148492de022acf398b69270b3d.jpg",
+       "Wallpaper2":"https://wallpaper.dog/large/20534144.jpg"
+
+  }
+]
   }
