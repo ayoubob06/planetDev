@@ -14,11 +14,11 @@
       "banner_type_1":"admob",
       "inter_type_1":"admob",
       "inter_or_reward_1":"inter",
-      "native_type_1":"applovin",
+      "native_type_1":"admob",
       "reward_type_1":"admob",
       "native_or_mrec_1":"native",
 
-      "banner_type_2":"applovin",
+      "banner_type_2":"admob",
       "inter_type_2":"admob",
       "inter_or_reward_2":"inter",
       "native_type_2":"admob",
