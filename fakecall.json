@@ -1,23 +1,13 @@
 { "ADS":
     {
   
-      "banner_type":"admob",
-      "inter_type":"admob",
-  
+    
    
       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
          
-      "applovin_banner":"ca-app-pub56099942",
-      "applovin_interstitial":"ca-app-pub-567",
- 
-       "facebook_banner":"adf-279013/966533",
-      "facebook_interstitial":"adf-279013/966633",
- 
-      "huawei_banner":"testb4znbuh3n2",
-      "huawei_interstitial":"testw6vs28auh3"   
-   
-	    
+      "native_admob":"ca-app-pub56099942",
+      "rewarde_admob":"ca-app-pub-567"
 
   
     } 
