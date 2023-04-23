@@ -3,11 +3,11 @@
   
     
    
-      "ad_network":"ironsource",
-        "banner_id":"ca-app-pub-3940256099942544/6300978111",
-        "inter_id":"ca-app-pub-3940256099942544/1033173712",
+      "ad_network":"unity",
+        "banner_id":"Banner_Android",
+        "inter_id":"Interstitial_Android",
         
-        "unity_id":"ca-app-pub-39402560999",
+        "unity_id":"5149029",
         "ironsouce_id":"85460dcd"
 
 
