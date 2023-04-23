@@ -3,22 +3,12 @@
   
     
    
-      "banner_admob1":"ca-app-pub-3940256099942541",
-        "banner_admob2":"ca-app-pub-39544/6300978111",
-        "banner_admob3":"ca-app-pub-3940256099942544/6300978111",
+      "ad_network":"admob",
+        "banner_id":"ca-app-pub-3940256099942544/6300978111",
+        "inter_id":"ca-app-pub-3940256099942544/1033173712",
         
-        "native_admob1":"ca-app-pub-39402560999",
-        "native_admob2":"ca-app-pub-39942544/2247696110",
-        "native_admob3":"ca-app-pub-3940256099942544/2247696110",
-        
-      "interstitial_admob1":"ca-app-pub-394024/1033173712",
-      "interstitial_admob2":"ca-app-pub-39402544/1033173712",
-      "interstitial_admob3":"ca-app-pub-3940256099942544/1033173712",
-
-      
-      "reward_admob1":"ca-app-pub-394025942544/5224354917",
-      "reward_admob2":"ca-app-pub-39442544/5224354917",
-      "reward_admob3":"ca-app-pub-3940256099942544/5224354917"
+        "unity_id":"ca-app-pub-39402560999",
+        "ironsouce_id":"ca-app-pub-39942544/2247696110"
 
 
   
