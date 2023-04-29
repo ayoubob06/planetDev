@@ -3,7 +3,7 @@
   
     
    
-      "ad_network":"unity",
+      "ad_network":"ADMOB",
         "banner_id":"Banner_Android",
         "inter_id":"Interstitial_Android",
         
